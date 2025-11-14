@@ -1,0 +1,40 @@
+2025-11-13 15:12:38,424 - [Crafty] - INFO     - __main__ - ***** Crafty Controller Started *****
+2025-11-13 15:12:38,425 - [Crafty] - INFO     - app.classes.helpers.helpers - No process found for pid. Assuming crafty crashed. Deleting stale session.lock
+2025-11-13 15:12:38,426 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-13 15:12:38,858 - [Crafty] - INFO     - app.classes.shared.migration - There is nothing to migrate
+2025-11-13 15:12:38,942 - [Crafty] - INFO     - __main__ - Initializing all servers defined
+2025-11-13 15:12:38,942 - [Crafty] - INFO     - app.classes.helpers.helpers - SSL Cert File is set to: /workspaces/Mine-Server/minecraft/crafty-4/app/config/web/certs/commander.cert.pem
+2025-11-13 15:12:38,943 - [Crafty] - INFO     - app.classes.helpers.helpers - SSL Key File is set to: /workspaces/Mine-Server/minecraft/crafty-4/app/config/web/certs/commander.key.pem
+2025-11-13 15:12:38,944 - [Crafty] - INFO     - app.classes.helpers.helpers - Cert and Key files already exists, not creating them.
+2025-11-13 15:12:38,945 - [Crafty] - INFO     - app.classes.controllers.servers_controller - Checking to see if we already registered 5a2e0323-fd9b-4f57-87af-3df64731e80a
+2025-11-13 15:12:38,946 - [Crafty] - INFO     - app.classes.web.tornado_handler - Starting Web Server on ports https:8443
+2025-11-13 15:12:38,946 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-13 15:12:38,974 - [Crafty] - INFO     - app.classes.web.tornado_handler - https://10.0.10.143:8443 is up and ready for connections.
+2025-11-13 15:12:38,975 - [Crafty] - INFO     - app.classes.shared.migration - There is nothing to migrate
+2025-11-13 15:12:39,480 - [Crafty] - INFO     - app.classes.shared.server - Creating Server object: 5a2e0323-fd9b-4f57-87af-3df64731e80a | Server Name: Hexxit-3.0 | Auto Start: False
+2025-11-13 15:12:39,489 - [Crafty] - INFO     - app.classes.controllers.servers_controller - Checking to see if we already registered 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 15:12:39,490 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-13 15:12:39,605 - [Crafty] - INFO     - app.classes.shared.migration - There is nothing to migrate
+2025-11-13 15:12:40,071 - [Crafty] - INFO     - app.classes.shared.server - Creating Server object: 4c25d769-766d-4ffd-8d06-7982c0ffec05 | Server Name: Westeros | Auto Start: False
+2025-11-13 15:12:42,604 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Checking Big Bucket status
+2025-11-13 15:12:42,897 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Big bucket is alive and responding as expected
+2025-11-13 15:12:42,897 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Cache file is not old enough to require automatic refresh.
+2025-11-13 15:12:44,091 - [Crafty] - INFO     - __main__ - Checking Internet. This may take a minute.
+2025-11-13 15:12:46,092 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Manual bucket cache refresh initiated.
+2025-11-13 15:12:46,092 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Checking Big Bucket status
+2025-11-13 15:12:46,093 - [Crafty] - INFO     - __main__ - Execution Mode: Non-interactive (e.g. 'python main.py')
+2025-11-13 15:12:46,094 - [Crafty] - INFO     - __main__ - Application path: '/workspaces/Mine-Server/minecraft/crafty-4'
+2025-11-13 15:12:46,297 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Big bucket is alive and responding as expected
+2025-11-13 15:12:46,576 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Cache file successfully refreshed manually.
+2025-11-13 15:12:46,576 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Manual refresh completed.
+2025-11-13 15:12:46,768 - [Crafty] - INFO     - __main__ - Removing old temp dirs
+2025-11-13 15:14:48,859 - [Crafty] - INFO     - audit_log - issued command start_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 15:14:49,621 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Westeros every 5 seconds
+2025-11-13 15:14:49,622 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Westeros every 30 seconds
+2025-11-13 15:14:49,625 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Westeros
+2025-11-13 15:14:49,625 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/tempfile.txt is writable
+2025-11-13 15:14:49,628 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Westeros with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 15:14:49,628 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 15:14:49,628 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05 with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 15:14:49,702 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros running with PID 5154
+2025-11-13 15:15:40,423 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error

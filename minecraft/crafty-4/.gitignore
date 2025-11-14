@@ -1,5 +1,5 @@
-**/logs
-*.log
+#**/logs
+#*.log
 *.sqlite
 *.sqlite-shm
 *.sqlite-wal
@@ -18,12 +18,12 @@ env.bak/
 venv.bak/
 
 .idea/
-/import/
+#/import/
 /imports/
-/servers/
+#/servers/
 /app/frontend/static/assets/images/auth/custom/
-/backups/
-/temp/
+#/backups/
+#/temp/
 /docker/servers/
 /docker/backups/
 session.lock

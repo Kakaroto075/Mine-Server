@@ -1,0 +1,12 @@
+{
+  "display_name": "Attack Speed : ",
+  "cmd_to_exc": [
+    "/attribute @p generic.attack_speed base set"
+  ],
+  "on_level_event": "",
+  "tip_to_display": "§7Determines how quickly you can swing your weapon. ",
+  "init_val_attribute": 4.0,
+  "max_level": 20.0,
+  "base_value_per_point": 1.0,
+  "lock": false
+}

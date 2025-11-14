@@ -1,0 +1,12 @@
+{
+  "display_name": "",
+  "cmd_to_exc": [
+    ""
+  ],
+  "on_level_event": "",
+  "tip_to_display": "",
+  "init_val_attribute": 0.0,
+  "max_level": 100.0,
+  "base_value_per_point": 1.0,
+  "lock": true
+}

@@ -1,0 +1,12 @@
+{
+  "display_name": "Fortitude : ",
+  "cmd_to_exc": [
+    "/attribute @p generic.knockback_resistance base set [param(0.01)]"
+  ],
+  "on_level_event": "",
+  "tip_to_display": "§7Reduces the distance you are pushed back when hit by an enemy or explosion",
+  "init_val_attribute": 0.0,
+  "max_level": 100.0,
+  "base_value_per_point": 1.0,
+  "lock": false
+}

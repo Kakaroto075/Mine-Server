@@ -1,0 +1,12 @@
+{
+  "display_name": "Vitality : ",
+  "cmd_to_exc": [
+    "/attribute @p generic.max_health base set"
+  ],
+  "on_level_event": "effect give @p minecraft:instant_health 2 3",
+  "tip_to_display": "§7Represents your overall durability. §7More health means you can survive longer in battle",
+  "init_val_attribute": 20.0,
+  "max_level": 100.0,
+  "base_value_per_point": 1.0,
+  "lock": false
+}

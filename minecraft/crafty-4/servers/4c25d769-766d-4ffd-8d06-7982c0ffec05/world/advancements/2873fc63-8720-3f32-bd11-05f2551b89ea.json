@@ -1,0 +1,291 @@
+{
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2025-11-13 03:05:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2025-11-13 03:05:30 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:default/root": {
+    "criteria": {
+      "launch_mod": "2025-11-13 03:05:30 +0000"
+    },
+    "done": true
+  },
+  "battletowers:root": {
+    "criteria": {
+      "Tick": "2025-11-13 03:05:30 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-11-13 03:05:30 +0000"
+    },
+    "done": true
+  },
+  "l2backpack:backpacks/root": {
+    "criteria": {
+      "0": "2025-11-13 03:05:30 +0000"
+    },
+    "done": true
+  },
+  "even_more_magic:even_more_magic_advancement": {
+    "criteria": {
+      "even_more_magic_advancement_0": "2025-11-13 03:05:30 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-11-13 03:05:30 +0000"
+    },
+    "done": true
+  },
+  "l2backpack:detection": {
+    "criteria": {
+      "locate": "2025-11-13 03:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-11-13 03:51:11 +0000",
+      "minecraft:taiga": "2025-11-13 03:46:01 +0000",
+      "minecraft:birch_forest": "2025-11-13 03:58:34 +0000",
+      "minecraft:dark_forest": "2025-11-13 03:57:09 +0000",
+      "minecraft:river": "2025-11-13 03:54:28 +0000",
+      "minecraft:stony_shore": "2025-11-13 03:52:18 +0000",
+      "minecraft:grove": "2025-11-13 03:28:10 +0000",
+      "minecraft:jagged_peaks": "2025-11-13 04:14:44 +0000",
+      "minecraft:forest": "2025-11-13 03:05:31 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-11-13 03:56:54 +0000",
+      "minecraft:frozen_peaks": "2025-11-13 04:27:43 +0000",
+      "minecraft:old_growth_birch_forest": "2025-11-13 03:58:20 +0000",
+      "minecraft:meadow": "2025-11-13 03:30:36 +0000",
+      "minecraft:plains": "2025-11-13 04:40:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-11-13 03:09:41 +0000",
+      "killed_something": "2025-11-13 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-11-13 03:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-11-13 03:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-11-13 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-11-13 03:15:56 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:berries": {
+    "criteria": {
+      "blueberries": "2025-11-13 03:25:29 +0000",
+      "strawberries": "2025-11-13 03:26:13 +0000",
+      "raspberries": "2025-11-13 03:16:16 +0000"
+    },
+    "done": false
+  },
+  "zeldamod:base_equipment": {
+    "criteria": {
+      "mask_block": "2025-11-13 03:18:50 +0000"
+    },
+    "done": true
+  },
+  "zeldamod:base": {
+    "criteria": {
+      "mask_block": "2025-11-13 03:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-11-13 04:36:57 +0000",
+      "sweet_berries": "2025-11-13 04:20:28 +0000",
+      "cooked_beef": "2025-11-13 03:24:51 +0000",
+      "potato": "2025-11-14 01:31:26 +0000",
+      "mutton": "2025-11-13 03:20:22 +0000",
+      "bread": "2025-11-13 04:18:11 +0000",
+      "carrot": "2025-11-14 01:46:53 +0000"
+    },
+    "done": false
+  },
+  "simplefarming:root": {
+    "criteria": {
+      "pickup_seed": "2025-11-13 03:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-11-13 03:33:01 +0000"
+    },
+    "done": true
+  },
+  "even_more_magic:what_the": {
+    "criteria": {
+      "what_the_0": "2025-11-13 03:38:53 +0000"
+    },
+    "done": true
+  },
+  "even_more_magic:enchantinuuxxreenatiuurutunium_powder_recipes_activatorer": {
+    "criteria": {
+      "enchantinuuxxreenatiuurutunium_powder_recipes_activatorer_0": "2025-11-13 03:38:53 +0000"
+    },
+    "done": true
+  },
+  "even_more_magic:butterfly_mage_cloth_recipes_activatorer": {
+    "criteria": {
+      "butterfly_mage_cloth_recipes_activatorer_0": "2025-11-13 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-11-13 05:18:16 +0000",
+      "minecraft:skeleton": "2025-11-13 04:00:50 +0000",
+      "minecraft:ravager": "2025-11-14 02:40:36 +0000",
+      "minecraft:vindicator": "2025-11-14 02:39:17 +0000",
+      "minecraft:spider": "2025-11-13 05:00:17 +0000",
+      "minecraft:creeper": "2025-11-14 02:10:03 +0000",
+      "minecraft:husk": "2025-11-13 03:59:57 +0000",
+      "minecraft:cave_spider": "2025-11-13 04:22:20 +0000",
+      "minecraft:stray": "2025-11-13 04:00:50 +0000",
+      "minecraft:zombie": "2025-11-13 03:59:57 +0000",
+      "minecraft:drowned": "2025-11-13 04:43:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "specialmobs:waterspider": "2025-11-13 05:00:17 +0000",
+      "specialmobs:lightningcreeper": "2025-11-14 02:10:03 +0000",
+      "specialmobs:sniperskeleton": "2025-11-14 02:09:08 +0000",
+      "specialmobs:knightskeleton": "2025-11-14 02:23:14 +0000",
+      "specialmobs:cavespider": "2025-11-13 04:22:20 +0000",
+      "specialmobs:giantzombie": "2025-11-13 04:20:57 +0000",
+      "specialmobs:fireskeleton": "2025-11-14 02:22:29 +0000",
+      "minecraft:ravager": "2025-11-14 02:40:36 +0000",
+      "specialmobs:spider": "2025-11-13 05:00:40 +0000",
+      "minecraft:creeper": "2025-11-13 03:59:57 +0000",
+      "specialmobs:gatlingskeleton": "2025-11-14 02:11:35 +0000",
+      "specialmobs:fishingzombie": "2025-11-14 02:02:33 +0000",
+      "minecraft:pillager": "2025-11-13 05:18:16 +0000",
+      "specialmobs:brutezombie": "2025-11-14 02:03:47 +0000",
+      "specialmobs:plaguezombie": "2025-11-14 02:05:31 +0000",
+      "specialmobs:firezombie": "2025-11-14 01:51:27 +0000",
+      "specialmobs:creeper": "2025-11-14 02:26:57 +0000",
+      "specialmobs:zombie": "2025-11-13 03:59:57 +0000",
+      "specialmobs:huskzombie": "2025-11-14 01:56:55 +0000",
+      "specialmobs:hungryzombie": "2025-11-14 01:52:51 +0000",
+      "minecraft:vindicator": "2025-11-14 02:39:17 +0000",
+      "specialmobs:frozendrowned": "2025-11-13 04:43:37 +0000",
+      "specialmobs:skeleton": "2025-11-13 04:00:50 +0000",
+      "specialmobs:madscientistzombie": "2025-11-14 02:01:10 +0000",
+      "minecraft:zombie": "2025-11-13 04:12:35 +0000"
+    },
+    "done": false
+  },
+  "memory_of_the_past:first_level_up": {
+    "criteria": {
+      "first_level_up_0": "2025-11-13 04:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-11-13 04:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-11-13 04:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-11-13 04:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-11-14 02:50:03 +0000",
+      "diamond_chestplate": "2025-11-14 02:40:36 +0000",
+      "diamond_boots": "2025-11-14 01:55:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-11-14 01:55:42 +0000",
+      "iron_leggings": "2025-11-14 01:55:24 +0000",
+      "iron_helmet": "2025-11-14 01:55:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-11-14 01:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-11-14 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:crops": {
+    "criteria": {
+      "pepper": "2025-11-14 02:42:40 +0000"
+    },
+    "done": false
+  },
+  "dimdoors:dimdoors/root": {
+    "criteria": {
+      "inventory_changed": "2025-11-14 01:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-11-14 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-11-14 01:52:06 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

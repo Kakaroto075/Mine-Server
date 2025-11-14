@@ -1,0 +1,356 @@
+{
+  "even_more_magic:even_more_magic_advancement": {
+    "criteria": {
+      "even_more_magic_advancement_0": "2025-11-13 02:30:09 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-11-13 02:30:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2025-11-13 02:30:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2025-11-13 02:30:10 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:default/root": {
+    "criteria": {
+      "launch_mod": "2025-11-13 02:30:10 +0000"
+    },
+    "done": true
+  },
+  "battletowers:root": {
+    "criteria": {
+      "Tick": "2025-11-13 02:30:10 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-11-13 02:30:10 +0000"
+    },
+    "done": true
+  },
+  "l2backpack:backpacks/root": {
+    "criteria": {
+      "0": "2025-11-13 02:30:10 +0000"
+    },
+    "done": true
+  },
+  "l2backpack:detection": {
+    "criteria": {
+      "locate": "2025-11-13 02:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-11-13 03:49:55 +0000",
+      "minecraft:taiga": "2025-11-13 03:04:16 +0000",
+      "quark:glimmering_weald": "2025-11-13 06:25:22 +0000",
+      "minecraft:dark_forest": "2025-11-13 03:51:17 +0000",
+      "minecraft:river": "2025-11-13 02:36:47 +0000",
+      "minecraft:stony_shore": "2025-11-13 03:50:21 +0000",
+      "minecraft:grove": "2025-11-13 03:25:40 +0000",
+      "minecraft:forest": "2025-11-13 02:30:11 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-11-13 03:51:16 +0000",
+      "minecraft:old_growth_birch_forest": "2025-11-13 03:52:41 +0000",
+      "minecraft:meadow": "2025-11-13 03:27:04 +0000",
+      "minecraft:plains": "2025-11-13 02:39:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-11-13 06:23:35 +0000",
+      "killed_something": "2025-11-13 02:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-11-13 02:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-11-13 02:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-11-13 02:33:34 +0000"
+    },
+    "done": true
+  },
+  "even_more_magic:you_pressed_the_button": {
+    "criteria": {
+      "you_pressed_the_button_0": "2025-11-13 02:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-11-13 03:31:14 +0000",
+      "chicken": "2025-11-13 22:23:06 +0000",
+      "cooked_mutton": "2025-11-13 02:59:10 +0000",
+      "cooked_beef": "2025-11-13 18:50:55 +0000",
+      "baked_potato": "2025-11-13 03:29:01 +0000",
+      "beef": "2025-11-13 03:28:30 +0000",
+      "apple": "2025-11-13 02:38:24 +0000",
+      "potato": "2025-11-13 21:54:47 +0000",
+      "cooked_cod": "2025-11-13 03:20:40 +0000",
+      "bread": "2025-11-13 03:41:43 +0000",
+      "salmon": "2025-11-13 03:35:35 +0000",
+      "cooked_chicken": "2025-11-13 03:17:52 +0000",
+      "enchanted_golden_apple": "2025-11-13 22:04:39 +0000",
+      "cooked_salmon": "2025-11-13 03:30:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-11-13 02:38:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_pillager_camp": "2025-11-13 02:42:54 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_pillager_camp": "2025-11-13 02:42:54 +0000"
+    },
+    "done": false
+  },
+  "simplefarming:root": {
+    "criteria": {
+      "pickup_seed": "2025-11-13 02:43:08 +0000"
+    },
+    "done": true
+  },
+  "even_more_magic:petrified_fireball_recipes_activatorer": {
+    "criteria": {
+      "petrified_fireball_recipes_activatorer_0": "2025-11-13 03:00:43 +0000"
+    },
+    "done": true
+  },
+  "even_more_magic:what_the": {
+    "criteria": {
+      "what_the_0": "2025-11-13 03:00:51 +0000"
+    },
+    "done": true
+  },
+  "even_more_magic:enchantinuuxxreenatiuurutunium_powder_recipes_activatorer": {
+    "criteria": {
+      "enchantinuuxxreenatiuurutunium_powder_recipes_activatorer_0": "2025-11-13 03:00:51 +0000"
+    },
+    "done": true
+  },
+  "even_more_magic:the_power_of_magic": {
+    "criteria": {
+      "the_power_of_magic_0": "2025-11-13 03:01:08 +0000"
+    },
+    "done": true
+  },
+  "zeldamod:find_courage_temple": {
+    "criteria": {
+      "in_stronghold": "2025-11-13 03:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-11-13 03:28:22 +0000",
+      "minecraft:spider": "2025-11-13 04:01:55 +0000",
+      "minecraft:creeper": "2025-11-13 18:47:53 +0000",
+      "minecraft:phantom": "2025-11-14 01:26:19 +0000",
+      "minecraft:witch": "2025-11-14 01:32:56 +0000",
+      "minecraft:husk": "2025-11-13 16:08:55 +0000",
+      "minecraft:cave_spider": "2025-11-13 03:58:57 +0000",
+      "minecraft:stray": "2025-11-13 03:28:22 +0000",
+      "minecraft:enderman": "2025-11-14 01:48:20 +0000",
+      "minecraft:zombie": "2025-11-13 16:08:55 +0000",
+      "minecraft:zombie_villager": "2025-11-13 03:33:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "specialmobs:waterspider": "2025-11-13 04:01:55 +0000",
+      "specialmobs:lightningcreeper": "2025-11-14 01:27:05 +0000",
+      "specialmobs:cavespider": "2025-11-13 03:58:57 +0000",
+      "minecraft:phantom": "2025-11-14 01:26:19 +0000",
+      "specialmobs:dirtcreeper": "2025-11-14 01:27:02 +0000",
+      "specialmobs:giantzombie": "2025-11-13 16:11:48 +0000",
+      "specialmobs:witch": "2025-11-14 01:32:56 +0000",
+      "specialmobs:fireskeleton": "2025-11-13 16:26:17 +0000",
+      "specialmobs:spider": "2025-11-13 04:02:09 +0000",
+      "minecraft:creeper": "2025-11-13 03:28:22 +0000",
+      "specialmobs:mothercavespider": "2025-11-13 16:12:07 +0000",
+      "specialmobs:deathcreeper": "2025-11-13 21:47:29 +0000",
+      "specialmobs:skeletoncreeper": "2025-11-13 21:47:25 +0000",
+      "specialmobs:giantskeleton": "2025-11-13 16:26:31 +0000",
+      "specialmobs:poisonspider": "2025-11-14 02:08:23 +0000",
+      "specialmobs:babycavespider": "2025-11-13 16:12:29 +0000",
+      "specialmobs:fishingzombie": "2025-11-13 16:24:11 +0000",
+      "specialmobs:brutezombie": "2025-11-13 16:11:23 +0000",
+      "specialmobs:gravelcreeper": "2025-11-13 21:49:32 +0000",
+      "specialmobs:plaguezombie": "2025-11-13 16:25:42 +0000",
+      "specialmobs:poisonskeleton": "2025-11-13 21:49:53 +0000",
+      "specialmobs:bruteskeleton": "2025-11-14 01:47:24 +0000",
+      "specialmobs:hungryspider": "2025-11-14 02:08:24 +0000",
+      "specialmobs:firezombie": "2025-11-13 16:27:41 +0000",
+      "specialmobs:watercavespider": "2025-11-13 21:47:55 +0000",
+      "specialmobs:enderman": "2025-11-14 01:48:20 +0000",
+      "specialmobs:creeper": "2025-11-13 18:47:53 +0000",
+      "specialmobs:darkcreeper": "2025-11-13 18:48:37 +0000",
+      "specialmobs:zombie": "2025-11-13 16:08:55 +0000",
+      "specialmobs:witchcavespider": "2025-11-13 22:05:45 +0000",
+      "specialmobs:huskzombie": "2025-11-13 16:25:44 +0000",
+      "specialmobs:weatheredskeleton": "2025-11-13 22:24:31 +0000",
+      "specialmobs:hungryzombie": "2025-11-13 22:20:11 +0000",
+      "specialmobs:frozenzombie": "2025-11-13 16:37:23 +0000",
+      "specialmobs:flyingcavespider": "2025-11-13 21:48:30 +0000",
+      "specialmobs:skeleton": "2025-11-13 03:28:22 +0000",
+      "specialmobs:madscientistzombie": "2025-11-13 22:06:07 +0000",
+      "specialmobs:firespider": "2025-11-13 18:50:37 +0000",
+      "specialmobs:spitfireskeleton": "2025-11-14 01:25:12 +0000",
+      "minecraft:zombie_villager": "2025-11-13 03:33:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-11-13 03:33:57 +0000"
+    },
+    "done": true
+  },
+  "zeldamod:base_equipment": {
+    "criteria": {
+      "mask_block": "2025-11-13 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "zeldamod:base": {
+    "criteria": {
+      "mask_block": "2025-11-13 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-11-13 03:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-11-13 03:44:18 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:berries": {
+    "criteria": {
+      "blackberries": "2025-11-13 03:56:50 +0000"
+    },
+    "done": false
+  },
+  "memory_of_the_past:first_level_up": {
+    "criteria": {
+      "first_level_up_0": "2025-11-13 03:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-11-13 04:16:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-11-13 06:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-11-13 15:31:09 +0000",
+      "diamond_helmet": "2025-11-13 15:31:05 +0000",
+      "diamond_chestplate": "2025-11-13 15:30:56 +0000",
+      "diamond_boots": "2025-11-13 15:31:06 +0000"
+    },
+    "done": true
+  },
+  "zeldamod:find_tower": {
+    "criteria": {
+      "in_stronghold": "2025-11-13 16:28:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-11-13 16:36:56 +0000"
+    },
+    "done": false
+  },
+  "modulargolems:golems/root": {
+    "criteria": {
+      "0": "2025-11-13 16:36:56 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:dimdoors/root": {
+    "criteria": {
+      "inventory_changed": "2025-11-13 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-11-13 22:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-11-13 23:06:58 +0000"
+    },
+    "done": true
+  },
+  "zeldamod:get_master_shard": {
+    "criteria": {
+      "mask_block": "2025-11-13 23:19:41 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2025-11-14 01:02:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-11-14 01:55:39 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,15 @@
+{
+  "port": 49710,
+  "maxPlayers": 8,
+  "GameMode": "survival",
+  "motd": "Mundo (LAN)",
+  "AllPlayersCheats": false,
+  "Whitelist": false,
+  "UseUPnP": true,
+  "AllowCommands": false,
+  "OnlineMode": true,
+  "EnableUUIDFixer": false,
+  "ForceOfflinePlayers": [],
+  "PvP": false,
+  "CopyToClipboard": true
+}

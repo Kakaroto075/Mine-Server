@@ -1,0 +1,150 @@
+{
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2025-11-10 00:00:05 -0300"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2025-11-10 00:00:05 -0300"
+    },
+    "done": true
+  },
+  "exoticbirds:default/root": {
+    "criteria": {
+      "launch_mod": "2025-11-10 00:00:05 -0300"
+    },
+    "done": true
+  },
+  "battletowers:root": {
+    "criteria": {
+      "Tick": "2025-11-10 00:00:05 -0300"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-11-10 00:00:05 -0300"
+    },
+    "done": true
+  },
+  "l2backpack:backpacks/root": {
+    "criteria": {
+      "0": "2025-11-10 00:00:05 -0300"
+    },
+    "done": true
+  },
+  "even_more_magic:even_more_magic_advancement": {
+    "criteria": {
+      "even_more_magic_advancement_0": "2025-11-10 00:00:05 -0300"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-11-10 00:00:05 -0300"
+    },
+    "done": true
+  },
+  "l2backpack:detection": {
+    "criteria": {
+      "locate": "2025-11-10 00:00:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2025-11-10 00:01:39 -0300",
+      "minecraft:cold_ocean": "2025-11-11 01:10:45 -0300",
+      "minecraft:forest": "2025-11-10 00:01:02 -0300",
+      "minecraft:plains": "2025-11-10 00:00:06 -0300"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-11-10 00:02:00 -0300"
+    },
+    "done": true
+  },
+  "even_more_magic:you_pressed_the_button": {
+    "criteria": {
+      "you_pressed_the_button_0": "2025-11-10 00:02:27 -0300"
+    },
+    "done": true
+  },
+  "even_more_magic:what_the": {
+    "criteria": {
+      "what_the_0": "2025-11-10 00:02:33 -0300"
+    },
+    "done": true
+  },
+  "even_more_magic:enchantinuuxxreenatiuurutunium_powder_recipes_activatorer": {
+    "criteria": {
+      "enchantinuuxxreenatiuurutunium_powder_recipes_activatorer_0": "2025-11-10 00:02:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-11-10 00:11:22 -0300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-11-10 00:11:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-11-10 00:11:45 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:golems/root": {
+    "criteria": {
+      "0": "2025-11-10 00:13:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-11-10 00:14:25 -0300"
+    },
+    "done": true
+  },
+  "simplefarming:root": {
+    "criteria": {
+      "pickup_seed": "2025-11-10 00:15:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-11-10 00:18:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-11-10 00:19:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-11-10 00:20:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-11-11 00:50:35 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

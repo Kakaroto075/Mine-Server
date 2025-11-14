@@ -1,0 +1,614 @@
+[14Nov2025 00:05:47.083] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 00:05:47.088] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 11
+[14Nov2025 00:05:47.089] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 00:05:47.089] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 1005MB / Diff: +164MB
+[14Nov2025 00:05:47.090] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 00:05:47.091] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 00:05:47.091] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 11
+[14Nov2025 00:05:47.091] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[14Nov2025 00:05:47.091] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 4087
+[14Nov2025 00:15:47.133] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 00:15:47.133] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 11
+[14Nov2025 00:15:47.133] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 00:15:47.133] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 1005MB / Diff: +164MB
+[14Nov2025 00:15:47.133] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 00:15:47.133] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 00:15:47.133] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 11
+[14Nov2025 00:15:47.133] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[14Nov2025 00:15:47.133] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 4087
+[14Nov2025 00:25:47.183] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 00:25:47.183] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 11
+[14Nov2025 00:25:47.183] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 00:25:47.183] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 977MB / Diff: +136MB
+[14Nov2025 00:25:47.183] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 00:25:47.183] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 00:25:47.183] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 11
+[14Nov2025 00:25:47.183] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[14Nov2025 00:25:47.183] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 4087
+[14Nov2025 00:35:47.233] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 00:35:47.233] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 11
+[14Nov2025 00:35:47.233] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 00:35:47.233] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 977MB / Diff: +136MB
+[14Nov2025 00:35:47.234] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 00:35:47.234] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 00:35:47.234] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 11
+[14Nov2025 00:35:47.234] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[14Nov2025 00:35:47.234] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 4087
+[14Nov2025 00:40:10.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thorfinn[/127.158.16.206:50451] logged in with entity id 95235 at (653.4097222060799, -16.0, -1039.0119402222128)
+[14Nov2025 00:40:10.662] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Thorfinn
+[14Nov2025 00:40:10.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thorfinn joined the game
+[14Nov2025 00:40:10.689] [Server thread/INFO] [capsule.loot.StarterLoot/]: playerLogin: already received starters
+[14Nov2025 00:40:10.964] [Server thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ServerSideHandshakePacketLogic/]: [FANCYMENU] A client with FancyMenu installed joined the server: Thorfinn
+[14Nov2025 00:40:11.036] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 45,-64
+[14Nov2025 00:40:13.094] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 48,-79
+[14Nov2025 00:40:17.695] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 65,-55
+[14Nov2025 00:45:47.293] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 00:45:47.293] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 11
+[14Nov2025 00:45:47.293] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 00:45:47.293] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 1220MB / Diff: +379MB
+[14Nov2025 00:45:47.293] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 00:45:47.293] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 00:45:47.293] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 11
+[14Nov2025 00:46:32.059] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 00:47:19.015] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 00:55:47.347] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 00:55:47.347] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 11
+[14Nov2025 00:55:47.347] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 00:55:47.347] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 1132MB / Diff: +291MB
+[14Nov2025 00:55:47.347] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 00:55:47.347] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 00:55:47.347] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 11
+[14Nov2025 01:04:36.455] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:04:39.709] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:05:47.395] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 01:05:47.395] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 11
+[14Nov2025 01:05:47.395] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 01:05:47.395] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 1023MB / Diff: +182MB
+[14Nov2025 01:05:47.395] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 01:05:47.395] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 01:05:47.395] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 11
+[14Nov2025 01:05:57.709] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:06:08.064] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:06:11.611] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:06:21.212] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:06:55.562] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:07:23.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thorfinn lost connection: Disconnected
+[14Nov2025 01:07:23.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thorfinn left the game
+[14Nov2025 01:08:41.133] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48b6b829[id=<null>,name=Thorfinn,properties={},legacy=false] (/127.158.16.206:33967) lost connection: Disconnected
+[14Nov2025 01:08:44.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thorfinn[/127.158.16.206:60003] logged in with entity id 102578 at (678.18058719317, 72.0, -1186.5296119846794)
+[14Nov2025 01:08:44.669] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Thorfinn
+[14Nov2025 01:08:44.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thorfinn joined the game
+[14Nov2025 01:08:44.701] [Server thread/INFO] [capsule.loot.StarterLoot/]: playerLogin: already received starters
+[14Nov2025 01:08:44.860] [Server thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ServerSideHandshakePacketLogic/]: [FANCYMENU] A client with FancyMenu installed joined the server: Thorfinn
+[14Nov2025 01:08:45.247] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 48,-79
+[14Nov2025 01:08:46.190] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 45,-64
+[14Nov2025 01:08:48.823] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Invalid hand null
+	Index: 5
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: NORMAL
+		3: ASM: class pyre.tinkerslevellingaddon.ImprovableModifier onAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: ASM: class dev.xkmc.l2damagetracker.contents.attack.AttackEventHandler onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		5: ASM: class me.mangregory.asr.util.handlers.EventHandler onAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007b47886f4ef0@61281c48
+		7: LOW
+		8: ASM: class slimeknights.tconstruct.tools.logic.InteractionHandler onChestplateAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Invalid hand null
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_21120_(LivingEntity.java:1878)
+	at TRANSFORMER/asr@0.2/me.mangregory.asr.util.handlers.EventHandler.onAttackEntity(EventHandler.java:53)
+	at TRANSFORMER/asr@0.2/me.mangregory.asr.util.handlers.__EventHandler_onAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.4.10/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:737)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1089)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1493)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1461)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[14Nov2025 01:08:48.824] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@20d14e5d, suppressing error
+java.lang.IllegalArgumentException: Invalid hand null
+	at net.minecraft.world.entity.LivingEntity.m_21120_(LivingEntity.java:1878) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at me.mangregory.asr.util.handlers.EventHandler.onAttackEntity(EventHandler.java:53) ~[AsgardShieldReloaded-1.20.1-0.2.jar%23188!/:0.2]
+	at me.mangregory.asr.util.handlers.__EventHandler_onAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[AsgardShieldReloaded-1.20.1-0.2.jar%23188!/:0.2]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:737) ~[forge-1.20.1-47.4.10-universal.jar%23274!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1089) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1493) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1461) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[14Nov2025 01:08:49.249] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:08:50.644] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 65,-55
+[14Nov2025 01:09:04.314] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:13:16.428] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:15:47.445] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 01:15:47.445] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 12
+[14Nov2025 01:15:47.445] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 01:15:47.445] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 993MB / Diff: +152MB
+[14Nov2025 01:15:47.445] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 01:15:47.445] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 01:15:47.445] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 12
+[14Nov2025 01:25:03.958] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:25:12.909] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:25:38.705] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:25:46.805] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:25:47.495] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 01:25:47.495] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 12
+[14Nov2025 01:25:47.495] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 01:25:47.495] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 962MB / Diff: +121MB
+[14Nov2025 01:25:47.495] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 01:25:47.495] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 01:25:47.495] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 12
+[14Nov2025 01:26:08.213] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:26:19.410] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:26:22.108] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:26:34.714] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:27:02.263] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:27:05.412] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:27:07.762] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:27:09.011] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:27:18.911] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:27:26.262] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:27:40.066] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:30:07.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Welli[/127.13.161.14:58319] logged in with entity id 108882 at (681.1540267271597, 72.0, -1185.5712721285022)
+[14Nov2025 01:30:07.366] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Welli
+[14Nov2025 01:30:07.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Welli joined the game
+[14Nov2025 01:30:07.736] [Server thread/INFO] [capsule.loot.StarterLoot/]: playerLogin: already received starters
+[14Nov2025 01:30:09.654] [Server thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ServerSideHandshakePacketLogic/]: [FANCYMENU] A client with FancyMenu installed joined the server: Welli
+[14Nov2025 01:31:09.659] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:32:17.424] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:32:56.773] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:35:47.549] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 01:35:47.549] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 12
+[14Nov2025 01:35:47.549] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 01:35:47.549] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 949MB / Diff: +108MB
+[14Nov2025 01:35:47.549] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 01:35:47.549] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 01:35:47.549] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 12
+[14Nov2025 01:35:49.479] [Worker-Main-520/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[14Nov2025 01:35:49.507] [Worker-Main-497/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[14Nov2025 01:35:49.553] [Worker-Main-520/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[14Nov2025 01:35:49.553] [Worker-Main-520/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[14Nov2025 01:35:59.316] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:36:48.905] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:44:05.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Welli has made the advancement [Enchanter]
+[14Nov2025 01:45:47.597] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 01:45:47.598] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 12
+[14Nov2025 01:45:47.598] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 01:45:47.598] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 988MB / Diff: +147MB
+[14Nov2025 01:45:47.598] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 01:45:47.598] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 01:45:47.598] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 12
+[14Nov2025 01:46:25.959] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:46:49.690] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 79,-87
+[14Nov2025 01:46:56.308] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:47:10.563] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:47:16.165] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:47:19.108] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:47:24.760] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:47:28.063] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:47:29.263] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:47:32.250] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:47:34.229] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:47:44.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Welli was slain by Silver Skeleton
+[14Nov2025 01:47:44.564] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:47:45.366] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 74,-109
+[14Nov2025 01:47:45.613] [Server thread/ERROR] [dev.uncandango.alltheleaks.AllTheLeaks/]: Cannot have null removal reason on Clone event!
+[14Nov2025 01:47:46.163] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:47:59.102] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Invalid hand null
+	Index: 5
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: NORMAL
+		3: ASM: class pyre.tinkerslevellingaddon.ImprovableModifier onAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: ASM: class dev.xkmc.l2damagetracker.contents.attack.AttackEventHandler onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		5: ASM: class me.mangregory.asr.util.handlers.EventHandler onAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007b47886f4ef0@61281c48
+		7: LOW
+		8: ASM: class slimeknights.tconstruct.tools.logic.InteractionHandler onChestplateAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Invalid hand null
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_21120_(LivingEntity.java:1878)
+	at TRANSFORMER/asr@0.2/me.mangregory.asr.util.handlers.EventHandler.onAttackEntity(EventHandler.java:53)
+	at TRANSFORMER/asr@0.2/me.mangregory.asr.util.handlers.__EventHandler_onAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.4.10/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:737)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1089)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1493)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1461)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[14Nov2025 01:47:59.103] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@4bd9ff25, suppressing error
+java.lang.IllegalArgumentException: Invalid hand null
+	at net.minecraft.world.entity.LivingEntity.m_21120_(LivingEntity.java:1878) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at me.mangregory.asr.util.handlers.EventHandler.onAttackEntity(EventHandler.java:53) ~[AsgardShieldReloaded-1.20.1-0.2.jar%23188!/:0.2]
+	at me.mangregory.asr.util.handlers.__EventHandler_onAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[AsgardShieldReloaded-1.20.1-0.2.jar%23188!/:0.2]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:737) ~[forge-1.20.1-47.4.10-universal.jar%23274!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1089) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1493) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1461) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[14Nov2025 01:48:02.511] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:48:20.514] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:48:32.968] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:48:39.212] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:48:46.100] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:49:18.966] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:03.019] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:04.820] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:05.969] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:08.120] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:08.122] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:09.199] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:11.222] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:12.521] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:13.221] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:27.247] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:34.899] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:36.271] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:46.850] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:52.448] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:53.972] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:51:57.053] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:52:06.049] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:52:06.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Welli has made the advancement [Diamonds!]
+[14Nov2025 01:52:07.203] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:52:51.096] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:54:40.702] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:55:16.431] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:55:18.430] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:55:32.348] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:55:35.080] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:55:39.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thorfinn has made the advancement [Hidden in the Depths]
+[14Nov2025 01:55:47.646] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 01:55:47.646] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 1
+[14Nov2025 01:55:47.646] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]:   Invalid Cloned Players: 1
+[14Nov2025 01:55:47.646] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 12
+[14Nov2025 01:55:47.647] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 01:55:47.647] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 1047MB / Diff: +206MB
+[14Nov2025 01:55:47.647] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 01:55:47.647] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 01:55:47.647] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 13
+[14Nov2025 01:55:48.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Welli has made the advancement [Dimensional Doors]
+[14Nov2025 01:55:49.281] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:55:53.046] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:55:56.412] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:56:41.045] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:56:45.832] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:56:46.749] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:56:55.394] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:57:17.748] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:57:31.298] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 01:57:38.351] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:00:42.951] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:00:54.050] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:01:10.899] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:01:15.000] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:01:24.901] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:01:34.549] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:02:21.147] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:02:33.795] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:02:37.745] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:02:45.400] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:03:05.852] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:03:09.951] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:03:25.792] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:03:27.895] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:03:29.244] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:03:32.902] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:03:35.398] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:03:40.547] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:03:47.681] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:03:47.801] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:03:50.452] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:03:53.050] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:03:55.898] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:04:00.155] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:04:06.896] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:04:27.803] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:04:29.293] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:04:33.552] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:04:40.302] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:04:49.603] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:04:52.080] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:04:55.081] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:04:55.654] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:04:57.802] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:05:01.558] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:05:03.956] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:05:09.908] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:05:10.459] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:05:14.993] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:05:24.347] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:05:31.454] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:05:31.697] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:05:31.699] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:05:32.946] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:05:35.993] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:05:39.446] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:05:47.694] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 02:05:47.694] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 1
+[14Nov2025 02:05:47.694] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]:   Invalid Cloned Players: 1
+[14Nov2025 02:05:47.694] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 12
+[14Nov2025 02:05:47.694] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 02:05:47.695] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 1027MB / Diff: +186MB
+[14Nov2025 02:05:47.695] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 02:05:47.695] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 02:05:47.695] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 13
+[14Nov2025 02:05:48.495] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:05:55.795] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:06:07.095] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:06:08.298] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:06:10.359] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:06:16.813] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:06:22.405] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:06:23.209] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:06:24.898] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:06:28.358] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:06:35.646] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:06:48.008] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:07:00.245] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:07:07.859] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:07:15.097] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:07:30.692] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:07:38.129] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:07:41.314] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:07:42.078] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:07:51.263] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:07:51.780] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:07:52.611] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:07:53.862] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:07:59.459] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:10.915] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:11.900] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:13.358] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:15.443] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:23.014] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:24.164] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:27.331] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:27.711] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:29.882] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:30.866] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:33.066] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:34.699] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:40.015] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:43.717] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:44.294] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:08:50.795] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:09:25.481] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:09:39.445] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:09:41.128] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:09:42.827] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:09:45.280] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:09:47.231] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:09:57.778] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:10:03.344] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:10:15.328] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:10:20.483] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:10:26.181] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:10:34.875] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:10:35.945] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:10:40.576] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:10:47.731] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:10:53.295] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:11:22.126] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:11:28.681] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:11:35.482] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:11:43.499] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:11:53.530] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:12:11.927] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:13:15.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Welli was burnt to a crisp whilst fighting Flame Enderman
+[14Nov2025 02:13:17.557] [Server thread/ERROR] [dev.uncandango.alltheleaks.AllTheLeaks/]: Cannot have null removal reason on Clone event!
+[14Nov2025 02:15:47.749] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 02:15:47.749] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 2
+[14Nov2025 02:15:47.749] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]:   Invalid Cloned Players: 2
+[14Nov2025 02:15:47.749] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 12
+[14Nov2025 02:15:47.749] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 02:15:47.750] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 1021MB / Diff: +180MB
+[14Nov2025 02:15:47.750] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 02:15:47.750] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 02:15:47.750] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 14
+[14Nov2025 02:18:48.224] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:18:54.669] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:18:54.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Welli has made the advancement [Voluntary Exile]
+[14Nov2025 02:18:56.032] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:20:24.270] [Worker-Main-497/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-330, y=27, z=-542}
+[14Nov2025 02:20:24.272] [Worker-Main-497/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=27, z=-542}
+[14Nov2025 02:20:24.272] [Worker-Main-497/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=32, z=-542}
+[14Nov2025 02:20:25.182] [Worker-Main-529/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[14Nov2025 02:20:25.183] [Worker-Main-529/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[14Nov2025 02:20:29.730] [Worker-Main-497/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[14Nov2025 02:20:29.730] [Worker-Main-497/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[14Nov2025 02:20:32.557] [Worker-Main-520/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[14Nov2025 02:20:32.558] [Worker-Main-520/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[14Nov2025 02:20:32.558] [Worker-Main-520/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[14Nov2025 02:20:32.558] [Worker-Main-520/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[14Nov2025 02:20:32.566] [Worker-Main-520/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-610}
+[14Nov2025 02:20:33.430] [Worker-Main-520/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[14Nov2025 02:20:33.430] [Worker-Main-520/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[14Nov2025 02:20:33.430] [Worker-Main-520/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[14Nov2025 02:20:38.425] [Worker-Main-529/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[14Nov2025 02:22:15.218] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:22:29.420] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:23:14.323] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:23:23.178] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:23:47.571] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:23:53.569] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:24:24.776] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:24:30.169] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:24:33.372] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:24:41.572] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:24:45.968] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:24:50.814] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:25:08.580] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:25:20.166] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:25:37.868] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:25:47.795] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 02:25:47.795] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 2
+[14Nov2025 02:25:47.795] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]:   Invalid Cloned Players: 2
+[14Nov2025 02:25:47.795] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 12
+[14Nov2025 02:25:47.795] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 02:25:47.796] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 1090MB / Diff: +249MB
+[14Nov2025 02:25:47.796] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 02:25:47.796] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 02:25:47.796] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 14
+[14Nov2025 02:26:00.813] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:26:57.165] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:27:00.965] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:27:04.918] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:27:10.475] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:28:28.870] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:31:04.789] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 79,-87
+[14Nov2025 02:32:24.317] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:32:52.737] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 74,-109
+[14Nov2025 02:33:09.114] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:33:12.313] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:33:13.712] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:33:16.013] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:33:32.511] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:33:51.147] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 4,-53
+[14Nov2025 02:35:47.842] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 02:35:47.842] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 2
+[14Nov2025 02:35:47.842] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]:   Invalid Cloned Players: 2
+[14Nov2025 02:35:47.842] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 12
+[14Nov2025 02:35:47.842] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 02:35:47.842] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 1113MB / Diff: +272MB
+[14Nov2025 02:35:47.842] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 02:35:47.842] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 02:35:47.842] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 14
+[14Nov2025 02:36:33.204] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 1,-87
+[14Nov2025 02:39:09.809] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:39:17.114] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:39:49.204] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:39:57.705] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:40:29.508] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:40:36.759] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:40:38.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Welli has completed the challenge [Hero of the Village]
+[14Nov2025 02:44:55.307] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:44:57.503] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:45:47.895] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 02:45:47.895] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 2
+[14Nov2025 02:45:47.895] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]:   Invalid Cloned Players: 2
+[14Nov2025 02:45:47.895] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 12
+[14Nov2025 02:45:47.895] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 02:45:47.896] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 1116MB / Diff: +275MB
+[14Nov2025 02:45:47.896] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 02:45:47.896] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 02:45:47.896] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 12
+[14Nov2025 02:45:47.896] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[14Nov2025 02:45:47.896] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 121
+[14Nov2025 02:46:33.455] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:46:42.113] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:46:45.105] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:47:07.352] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:47:27.661] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:47:44.650] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:48:17.951] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:48:19.646] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:48:32.796] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:49:40.751] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:50:03.301] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:55:47.944] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 02:55:47.944] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 2
+[14Nov2025 02:55:47.944] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]:   Invalid Cloned Players: 2
+[14Nov2025 02:55:47.944] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 12
+[14Nov2025 02:55:47.944] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 02:55:47.944] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 1083MB / Diff: +242MB
+[14Nov2025 02:55:47.944] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 02:55:47.944] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 02:55:47.944] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 12
+[14Nov2025 02:55:47.944] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[14Nov2025 02:55:47.944] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 167
+[14Nov2025 02:57:06.072] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 02:57:07.547] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: 0.0
+[14Nov2025 03:02:50.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Welli lost connection: Disconnected
+[14Nov2025 03:02:50.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Welli left the game
+[14Nov2025 03:05:47.990] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[14Nov2025 03:05:47.990] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 2
+[14Nov2025 03:05:47.990] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]:   Invalid Cloned Players: 2
+[14Nov2025 03:05:47.990] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 13
+[14Nov2025 03:05:47.991] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[14Nov2025 03:05:47.991] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 841MB / C: 1062MB / Diff: +221MB
+[14Nov2025 03:05:47.991] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Nov2025 03:05:47.991] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[14Nov2025 03:05:47.991] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 13

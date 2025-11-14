@@ -1,0 +1,1277 @@
+2025-11-12 23:49:16,418 - [Crafty] - INFO     - __main__ - ***** Crafty Controller Started *****
+2025-11-12 23:49:16,423 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-12 23:49:16,444 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210813111015_init"
+2025-11-12 23:49:16,452 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210813111015_init"
+2025-11-12 23:49:16,457 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210819155737_permissions"
+2025-11-12 23:49:16,463 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210819155737_permissions"
+2025-11-12 23:49:16,466 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210822092240_crafty_permissions"
+2025-11-12 23:49:16,467 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210822092240_crafty_permissions"
+2025-11-12 23:49:16,469 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210822101530_delete_User_Servers"
+2025-11-12 23:49:16,470 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210822101530_delete_User_Servers"
+2025-11-12 23:49:16,472 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210824205501_permissions_limits_1"
+2025-11-12 23:49:16,480 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210824205501_permissions_limits_1"
+2025-11-12 23:49:16,483 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210915205501_backup_schedule"
+2025-11-12 23:49:16,485 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210915205501_backup_schedule"
+2025-11-12 23:49:16,487 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210915205501_crash"
+2025-11-12 23:49:16,490 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210915205501_crash"
+2025-11-12 23:49:16,492 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210915205501_cron_task"
+2025-11-12 23:49:16,494 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210915205501_cron_task"
+2025-11-12 23:49:16,497 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210915205501_first_run_"
+2025-11-12 23:49:16,499 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210915205501_first_run_"
+2025-11-12 23:49:16,502 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210915205501_one_time_task"
+2025-11-12 23:49:16,504 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210915205501_one_time_task"
+2025-11-12 23:49:16,506 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210915205501_server_type"
+2025-11-12 23:49:16,509 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210915205501_server_type"
+2025-11-12 23:49:16,511 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210915205501_user_email"
+2025-11-12 23:49:16,514 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210915205501_user_email"
+2025-11-12 23:49:16,516 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210915205501_users_log_path"
+2025-11-12 23:49:16,518 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210915205501_users_log_path"
+2025-11-12 23:49:16,521 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210915205501_waiting_start_1"
+2025-11-12 23:49:16,523 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210915205501_waiting_start_1"
+2025-11-12 23:49:16,525 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210915205501_waiting_start_1 copy"
+2025-11-12 23:49:16,528 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210915205501_waiting_start_1 copy"
+2025-11-12 23:49:16,530 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20210929205501_user_lang"
+2025-11-12 23:49:16,532 - [Crafty] - INFO     - app.classes.shared.migration - Done "20210929205501_user_lang"
+2025-11-12 23:49:16,535 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20211120221511_api_keys"
+2025-11-12 23:49:16,538 - [Crafty] - INFO     - app.classes.shared.migration - Done "20211120221511_api_keys"
+2025-11-12 23:49:16,541 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20211121233959_multi_api_keys"
+2025-11-12 23:49:16,542 - [Crafty] - INFO     - app.classes.shared.migration - Done "20211121233959_multi_api_keys"
+2025-11-12 23:49:16,545 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220223_ignored_exits"
+2025-11-12 23:49:16,547 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220223_ignored_exits"
+2025-11-12 23:49:16,550 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220223_schedule_reaction"
+2025-11-12 23:49:16,554 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220223_schedule_reaction"
+2025-11-12 23:49:16,557 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220226_server_order"
+2025-11-12 23:49:16,559 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220226_server_order"
+2025-11-12 23:49:16,562 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220226_server_order copy"
+2025-11-12 23:49:16,565 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220226_server_order copy"
+2025-11-12 23:49:16,567 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220227162446_backup_options"
+2025-11-12 23:49:16,569 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220227162446_backup_options"
+2025-11-12 23:49:16,571 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220302_compress_backups"
+2025-11-12 23:49:16,574 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220302_compress_backups"
+2025-11-12 23:49:16,576 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220303_downloading"
+2025-11-12 23:49:16,579 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220303_downloading"
+2025-11-12 23:49:16,582 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220312_support_log_status"
+2025-11-12 23:49:16,585 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220312_support_log_status"
+2025-11-12 23:49:16,587 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220618_crafty_api_secret"
+2025-11-12 23:49:16,588 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220618_crafty_api_secret"
+2025-11-12 23:49:16,591 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220620_backup_shutdown"
+2025-11-12 23:49:16,593 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220620_backup_shutdown"
+2025-11-12 23:49:16,596 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220804_schedule_next_run"
+2025-11-12 23:49:16,599 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220804_schedule_next_run"
+2025-11-12 23:49:16,601 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220805_schedule_rename_comment"
+2025-11-12 23:49:16,603 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220805_schedule_rename_comment"
+2025-11-12 23:49:16,606 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220819_role_manager"
+2025-11-12 23:49:16,608 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220819_role_manager"
+2025-11-12 23:49:16,610 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220819_user_manager"
+2025-11-12 23:49:16,611 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220819_user_manager"
+2025-11-12 23:49:16,614 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220820_quota"
+2025-11-12 23:49:16,616 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220820_quota"
+2025-11-12 23:49:16,619 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220820_user_crafty"
+2025-11-12 23:49:16,624 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220820_user_crafty"
+2025-11-12 23:49:16,626 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220821_shutdown_timeout"
+2025-11-12 23:49:16,629 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220821_shutdown_timeout"
+2025-11-12 23:49:16,632 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220912_user_pfp"
+2025-11-12 23:49:16,635 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220912_user_pfp"
+2025-11-12 23:49:16,637 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220926_user_theme"
+2025-11-12 23:49:16,640 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220926_user_theme"
+2025-11-12 23:49:16,642 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20221109_login_photo"
+2025-11-12 23:49:16,645 - [Crafty] - INFO     - app.classes.shared.migration - Done "20221109_login_photo"
+2025-11-12 23:49:16,647 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20230111_adding_login_opacity"
+2025-11-12 23:49:16,650 - [Crafty] - INFO     - app.classes.shared.migration - Done "20230111_adding_login_opacity"
+2025-11-12 23:49:16,652 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20230119_command_drop"
+2025-11-12 23:49:16,653 - [Crafty] - INFO     - app.classes.shared.migration - Done "20230119_command_drop"
+2025-11-12 23:49:16,656 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20230120_backup_command"
+2025-11-12 23:49:16,662 - [Crafty] - INFO     - app.classes.shared.migration - Done "20230120_backup_command"
+2025-11-12 23:49:16,665 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20230126_master_server"
+2025-11-12 23:49:16,669 - [Crafty] - INFO     - app.classes.shared.migration - Done "20230126_master_server"
+2025-11-12 23:49:16,671 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20230129_secrets_shh"
+2025-11-12 23:49:16,675 - [Crafty] - INFO     - app.classes.shared.migration - Done "20230129_secrets_shh"
+2025-11-12 23:49:16,678 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20230603_webhooks"
+2025-11-12 23:49:16,701 - [Crafty] - INFO     - app.classes.shared.migration - Done "20230603_webhooks"
+2025-11-12 23:49:16,703 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20230901_user_notif"
+2025-11-12 23:49:16,706 - [Crafty] - INFO     - app.classes.shared.migration - Done "20230901_user_notif"
+2025-11-12 23:49:16,708 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20231229_player_count"
+2025-11-12 23:49:16,711 - [Crafty] - INFO     - app.classes.shared.migration - Done "20231229_player_count"
+2025-11-12 23:49:16,714 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20240216_rework_servers_uuid"
+2025-11-12 23:49:16,719 - [Crafty] - INFO     - app.classes.shared.migration - Done "20240216_rework_servers_uuid"
+2025-11-12 23:49:16,725 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20240217_rework_servers_uuid_part2"
+2025-11-12 23:49:16,729 - [Crafty] - INFO     - app.classes.shared.migration - Done "20240217_rework_servers_uuid_part2"
+2025-11-12 23:49:16,733 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20240308_multi-backup"
+2025-11-12 23:49:16,752 - [Crafty] - INFO     - app.classes.shared.migration - Done "20240308_multi-backup"
+2025-11-12 23:49:16,757 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20240310_fixing_rework_servers_uuid"
+2025-11-12 23:49:16,764 - [Crafty] - INFO     - app.classes.shared.migration - Done "20240310_fixing_rework_servers_uuid"
+2025-11-12 23:49:16,767 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20240317_apikey_full_access"
+2025-11-12 23:49:16,770 - [Crafty] - INFO     - app.classes.shared.migration - Done "20240317_apikey_full_access"
+2025-11-12 23:49:16,772 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20240420_audit_log_drop"
+2025-11-12 23:49:16,774 - [Crafty] - INFO     - app.classes.shared.migration - Done "20240420_audit_log_drop"
+2025-11-12 23:49:16,776 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20240811_snapshot_backups"
+2025-11-12 23:49:16,779 - [Crafty] - INFO     - app.classes.shared.migration - Done "20240811_snapshot_backups"
+2025-11-12 23:49:16,782 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20250102_mfa"
+2025-11-12 23:49:16,784 - [Crafty] - INFO     - app.classes.shared.migration - Done "20250102_mfa"
+2025-11-12 23:49:16,786 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20250411_role_mfa_req"
+2025-11-12 23:49:16,789 - [Crafty] - INFO     - app.classes.shared.migration - Done "20250411_role_mfa_req"
+2025-11-12 23:49:16,792 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20250514_db_stats"
+2025-11-12 23:49:16,793 - [Crafty] - INFO     - app.classes.shared.migration - Done "20250514_db_stats"
+2025-11-12 23:49:16,795 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20250703_support_logs"
+2025-11-12 23:49:16,798 - [Crafty] - INFO     - app.classes.shared.migration - Done "20250703_support_logs"
+2025-11-12 23:49:16,800 - [Crafty] - INFO     - app.classes.shared.main_models - Fresh Install Detected - Creating Default Settings
+2025-11-12 23:49:17,131 - [Crafty] - INFO     - __main__ - Initializing all servers defined
+2025-11-12 23:49:17,131 - [Crafty] - INFO     - app.classes.helpers.helpers - SSL Cert File is set to: /workspaces/Mine-Server/minecraft/crafty-4/app/config/web/certs/commander.cert.pem
+2025-11-12 23:49:17,132 - [Crafty] - INFO     - app.classes.helpers.helpers - SSL Key File is set to: /workspaces/Mine-Server/minecraft/crafty-4/app/config/web/certs/commander.key.pem
+2025-11-12 23:49:17,132 - [Crafty] - INFO     - app.classes.helpers.helpers - Generating a self signed SSL
+2025-11-12 23:49:17,135 - [Crafty] - INFO     - app.classes.helpers.helpers - Generating a key pair. This might take a moment.
+2025-11-12 23:49:17,400 - [Crafty] - INFO     - app.classes.helpers.helpers - Self-signed certificate and key generation completed.
+2025-11-12 23:49:17,404 - [Crafty] - INFO     - app.classes.web.tornado_handler - Starting Web Server on ports https:8443
+2025-11-12 23:49:17,412 - [Crafty] - INFO     - app.classes.web.tornado_handler - https://10.0.11.220:8443 is up and ready for connections.
+2025-11-12 23:49:19,915 - [Crafty] - ERROR    - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/app/config/bigbucket.json does not exist
+2025-11-12 23:49:19,917 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Checking Big Bucket status
+2025-11-12 23:49:20,206 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Big bucket is alive and responding as expected
+2025-11-12 23:49:20,206 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Automatic cache refresh initiated due to old cache.
+2025-11-12 23:49:20,206 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Checking Big Bucket status
+2025-11-12 23:49:20,381 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Big bucket is alive and responding as expected
+2025-11-12 23:49:20,577 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Cache file successfully refreshed manually.
+2025-11-12 23:49:21,401 - [Crafty] - INFO     - __main__ - Checking Internet. This may take a minute.
+2025-11-12 23:49:23,401 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Manual bucket cache refresh initiated.
+2025-11-12 23:49:23,402 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Checking Big Bucket status
+2025-11-12 23:49:23,583 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Big bucket is alive and responding as expected
+2025-11-12 23:49:23,787 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Cache file successfully refreshed manually.
+2025-11-12 23:49:23,787 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Manual refresh completed.
+2025-11-12 23:49:23,828 - [Crafty] - INFO     - __main__ - Execution Mode: Non-interactive (e.g. 'python main.py')
+2025-11-12 23:49:23,828 - [Crafty] - INFO     - __main__ - Application path: '/workspaces/Mine-Server/minecraft/crafty-4'
+2025-11-12 23:49:24,035 - [Crafty] - INFO     - __main__ - Removing old temp dirs
+2025-11-12 23:49:57,563 - [Crafty] - INFO     - __main__ - Recieved signal SIGINT [2], stopping Crafty...
+2025-11-12 23:49:57,563 - [Crafty] - INFO     - app.classes.controllers.servers_controller - Found 0 running server(s)
+2025-11-12 23:49:57,563 - [Crafty] - INFO     - app.classes.controllers.servers_controller - Stopping All Servers
+2025-11-12 23:49:57,564 - [Crafty] - INFO     - app.classes.controllers.servers_controller - All Servers Stopped
+2025-11-12 23:49:57,564 - [Crafty] - INFO     - app.classes.shared.command - Stopping all server daemons / threads
+2025-11-12 23:51:35,799 - [Crafty] - INFO     - __main__ - ***** Crafty Controller Started *****
+2025-11-12 23:51:35,799 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-12 23:51:35,803 - [Crafty] - INFO     - app.classes.shared.migration - There is nothing to migrate
+2025-11-12 23:51:35,828 - [Crafty] - INFO     - app.classes.helpers.helpers - SSL Cert File is set to: /workspaces/Mine-Server/minecraft/crafty-4/app/config/web/certs/commander.cert.pem
+2025-11-12 23:51:35,828 - [Crafty] - INFO     - __main__ - Initializing all servers defined
+2025-11-12 23:51:35,829 - [Crafty] - INFO     - app.classes.helpers.helpers - SSL Key File is set to: /workspaces/Mine-Server/minecraft/crafty-4/app/config/web/certs/commander.key.pem
+2025-11-12 23:51:35,829 - [Crafty] - INFO     - app.classes.helpers.helpers - Cert and Key files already exists, not creating them.
+2025-11-12 23:51:35,831 - [Crafty] - INFO     - app.classes.web.tornado_handler - Starting Web Server on ports https:8443
+2025-11-12 23:51:35,839 - [Crafty] - INFO     - app.classes.web.tornado_handler - https://10.0.11.220:8443 is up and ready for connections.
+2025-11-12 23:51:38,356 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Checking Big Bucket status
+2025-11-12 23:51:38,551 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Big bucket is alive and responding as expected
+2025-11-12 23:51:38,551 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Cache file is not old enough to require automatic refresh.
+2025-11-12 23:51:39,841 - [Crafty] - INFO     - __main__ - Checking Internet. This may take a minute.
+2025-11-12 23:51:41,842 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Manual bucket cache refresh initiated.
+2025-11-12 23:51:41,842 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Checking Big Bucket status
+2025-11-12 23:51:41,844 - [Crafty] - INFO     - __main__ - Execution Mode: Non-interactive (e.g. 'python main.py')
+2025-11-12 23:51:41,844 - [Crafty] - INFO     - __main__ - Application path: '/workspaces/Mine-Server/minecraft/crafty-4'
+2025-11-12 23:51:42,038 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Big bucket is alive and responding as expected
+2025-11-12 23:51:42,227 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Cache file successfully refreshed manually.
+2025-11-12 23:51:42,227 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Manual refresh completed.
+2025-11-12 23:51:42,402 - [Crafty] - INFO     - __main__ - Removing old temp dirs
+2025-11-12 23:52:21,095 - [Crafty] - INFO     - app.classes.web.routes.api.auth.login - User: 3 Logged in from IP: 10.241.0.36
+2025-11-12 23:52:21,099 - [Crafty] - INFO     - audit_log - logged in via the API
+2025-11-12 23:53:01,726 - [Crafty] - INFO     - audit_log - edited user admin (UID: 1)with roles set()
+2025-11-12 23:53:47,509 - [Crafty] - INFO     - app.classes.web.routes.api.auth.login - User: 1 Logged in from IP: 10.241.0.36
+2025-11-12 23:53:47,515 - [Crafty] - INFO     - audit_log - logged in via the API
+2025-11-12 23:53:50,048 - [Crafty] - ERROR    - tornado.application - Uncaught exception GET /ws?page=%2Fpanel%2Fdashboard&page_query_params= (::1)
+HTTPServerRequest(protocol='https', host='localhost:8443', method='GET', uri='/ws?page=%2Fpanel%2Fdashboard&page_query_params=', version='HTTP/1.1', remote_ip='::1')
+Traceback (most recent call last):
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/peewee.py", line 6739, in get
+    return clone.execute(database)[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/peewee.py", line 4182, in __getitem__
+    return self.row_cache[item]
+           ~~~~~~~~~~~~~~^^^^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/tornado/websocket.py", line 965, in _accept_connection
+    open_result = handler.open(*handler.open_args, **handler.open_kwargs)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/web/websocket_handler.py", line 48, in open
+    if self.check_auth():
+       ^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/web/websocket_handler.py", line 107, in check_auth
+    return self.controller.authentication.check_bool(self.get_cookie("token"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/shared/authentication.py", line 94, in check_bool
+    return self.check(token) is not None
+           ^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/shared/authentication.py", line 63, in check
+    user = HelperUsers.get_user(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/models/users.py", line 176, in get_user
+    user = model_to_dict(Users.get(Users.user_id == user_id))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/peewee.py", line 6316, in get
+    return sq.get()
+           ^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/peewee.py", line 6742, in get
+    raise self.model.DoesNotExist('%s instance matching query does '
+app.classes.models.users.UsersDoesNotExist: <Model: Users> instance matching query does not exist:
+SQL: SELECT "t1"."user_id", "t1"."created", "t1"."last_login", "t1"."last_update", "t1"."last_ip", "t1"."username", "t1"."password", "t1"."email", "t1"."enabled", "t1"."superuser", "t1"."lang", "t1"."valid_tokens_from", "t1"."server_order", "t1"."preparing", "t1"."hints", "t1"."manager", "t1"."pfp", "t1"."theme", "t1"."cleared_notifs" FROM "users" AS "t1" WHERE ("t1"."user_id" = ?) LIMIT ? OFFSET ?
+Params: [3, 1, 0]
+2025-11-12 23:54:11,610 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Checking Big Bucket status
+2025-11-12 23:54:11,789 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Big bucket is alive and responding as expected
+2025-11-12 23:54:13,704 - [Crafty] - ERROR    - tornado.application - Uncaught exception GET /ws?page=%2Fserver%2Fstep1&page_query_params= (::1)
+HTTPServerRequest(protocol='https', host='localhost:8443', method='GET', uri='/ws?page=%2Fserver%2Fstep1&page_query_params=', version='HTTP/1.1', remote_ip='::1')
+Traceback (most recent call last):
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/peewee.py", line 6739, in get
+    return clone.execute(database)[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/peewee.py", line 4182, in __getitem__
+    return self.row_cache[item]
+           ~~~~~~~~~~~~~~^^^^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/tornado/websocket.py", line 965, in _accept_connection
+    open_result = handler.open(*handler.open_args, **handler.open_kwargs)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/web/websocket_handler.py", line 48, in open
+    if self.check_auth():
+       ^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/web/websocket_handler.py", line 107, in check_auth
+    return self.controller.authentication.check_bool(self.get_cookie("token"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/shared/authentication.py", line 94, in check_bool
+    return self.check(token) is not None
+           ^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/shared/authentication.py", line 63, in check
+    user = HelperUsers.get_user(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/models/users.py", line 176, in get_user
+    user = model_to_dict(Users.get(Users.user_id == user_id))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/peewee.py", line 6316, in get
+    return sq.get()
+           ^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/peewee.py", line 6742, in get
+    raise self.model.DoesNotExist('%s instance matching query does '
+app.classes.models.users.UsersDoesNotExist: <Model: Users> instance matching query does not exist:
+SQL: SELECT "t1"."user_id", "t1"."created", "t1"."last_login", "t1"."last_update", "t1"."last_ip", "t1"."username", "t1"."password", "t1"."email", "t1"."enabled", "t1"."superuser", "t1"."lang", "t1"."valid_tokens_from", "t1"."server_order", "t1"."preparing", "t1"."hints", "t1"."manager", "t1"."pfp", "t1"."theme", "t1"."cleared_notifs" FROM "users" AS "t1" WHERE ("t1"."user_id" = ?) LIMIT ? OFFSET ?
+Params: [3, 1, 0]
+2025-11-12 23:54:20,056 - [Crafty] - ERROR    - tornado.application - Uncaught exception GET /ws?page=%2Fserver%2Fstep1&page_query_params= (::1)
+HTTPServerRequest(protocol='https', host='localhost:8443', method='GET', uri='/ws?page=%2Fserver%2Fstep1&page_query_params=', version='HTTP/1.1', remote_ip='::1')
+Traceback (most recent call last):
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/peewee.py", line 6739, in get
+    return clone.execute(database)[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/peewee.py", line 4182, in __getitem__
+    return self.row_cache[item]
+           ~~~~~~~~~~~~~~^^^^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/tornado/websocket.py", line 965, in _accept_connection
+    open_result = handler.open(*handler.open_args, **handler.open_kwargs)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/web/websocket_handler.py", line 48, in open
+    if self.check_auth():
+       ^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/web/websocket_handler.py", line 107, in check_auth
+    return self.controller.authentication.check_bool(self.get_cookie("token"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/shared/authentication.py", line 94, in check_bool
+    return self.check(token) is not None
+           ^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/shared/authentication.py", line 63, in check
+    user = HelperUsers.get_user(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/models/users.py", line 176, in get_user
+    user = model_to_dict(Users.get(Users.user_id == user_id))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/peewee.py", line 6316, in get
+    return sq.get()
+           ^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/peewee.py", line 6742, in get
+    raise self.model.DoesNotExist('%s instance matching query does '
+app.classes.models.users.UsersDoesNotExist: <Model: Users> instance matching query does not exist:
+SQL: SELECT "t1"."user_id", "t1"."created", "t1"."last_login", "t1"."last_update", "t1"."last_ip", "t1"."username", "t1"."password", "t1"."email", "t1"."enabled", "t1"."superuser", "t1"."lang", "t1"."valid_tokens_from", "t1"."server_order", "t1"."preparing", "t1"."hints", "t1"."manager", "t1"."pfp", "t1"."theme", "t1"."cleared_notifs" FROM "users" AS "t1" WHERE ("t1"."user_id" = ?) LIMIT ? OFFSET ?
+Params: [3, 1, 0]
+2025-11-12 23:54:43,677 - [Crafty] - INFO     - app.classes.shared.main_controller - No server.properties found on import.Creating one with port selection of 25565
+2025-11-12 23:54:43,683 - [Crafty] - INFO     - app.classes.controllers.servers_controller - Checking to see if we already registered 5a2e0323-fd9b-4f57-87af-3df64731e80a
+2025-11-12 23:54:43,684 - [Crafty] - WARNING  - app.classes.models.server_stats - Error try to create the db_stats folder for server : [Errno 17] File exists: '/workspaces/Mine-Server/minecraft/crafty-4/app/config/db/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a'
+2025-11-12 23:54:43,685 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-12 23:54:43,695 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220427_init"
+2025-11-12 23:54:43,696 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220427_init"
+2025-11-12 23:54:43,698 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220817_schedule_rename_downloading"
+2025-11-12 23:54:43,700 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220817_schedule_rename_downloading"
+2025-11-12 23:54:43,702 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20230827_add_icon"
+2025-11-12 23:54:43,703 - [Crafty] - INFO     - app.classes.shared.migration - Done "20230827_add_icon"
+2025-11-12 23:54:43,710 - [Crafty] - INFO     - app.classes.shared.server - Creating Server object: 5a2e0323-fd9b-4f57-87af-3df64731e80a | Server Name: Hexxit-3.0 | Auto Start: False
+2025-11-12 23:54:44,230 - [Crafty] - INFO     - audit_log - created server Hexxit-3.0 (ID: 5a2e0323-fd9b-4f57-87af-3df64731e80a) (UUID: 5a2e0323-fd9b-4f57-87af-3df64731e80a)
+2025-11-12 23:54:46,726 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - https://jars.arcadiatech.org/forge-installer/1.20.1/forge-installer.jar
+2025-11-12 23:54:46,751 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Requesting remote: https://jars.arcadiatech.org/forge-installer/1.20.1/forge-installer.jar
+2025-11-12 23:54:46,752 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Download Destination: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/forge-installer-1.20.1.jar
+2025-11-12 23:54:46,825 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Download progress: 17.25%
+2025-11-12 23:54:46,833 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Download progress: 34.50%
+2025-11-12 23:54:46,837 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Download progress: 51.76%
+2025-11-12 23:54:46,840 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Download progress: 69.01%
+2025-11-12 23:54:46,849 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Download progress: 86.26%
+2025-11-12 23:54:46,850 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Download progress: 100.00%
+2025-11-12 23:54:46,852 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Hexxit-3.0 every 5 seconds
+2025-11-12 23:54:46,853 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Hexxit-3.0 every 30 seconds
+2025-11-12 23:54:46,854 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Hexxit-3.0
+2025-11-12 23:54:46,855 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/tempfile.txt is writable
+2025-11-12 23:54:46,856 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Hexxit-3.0 with command ['java', '-Xms1000M', '-Xmx3000M', '-jar', 'forge-installer-1.20.1.jar', '--installServer']
+2025-11-12 23:54:46,857 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-12 23:54:46,857 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a with command: ['java', '-Xms1000M', '-Xmx3000M', '-jar', 'forge-installer-1.20.1.jar', '--installServer']
+2025-11-12 23:54:46,918 - [Crafty] - INFO     - app.classes.shared.server - Server Hexxit-3.0 running with PID 23155
+2025-11-12 23:55:12,674 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/run.sh is readable
+2025-11-12 23:55:59,555 - [Crafty] - INFO     - audit_log - issued command start_server for server Hexxit-3.0 with ID: 5a2e0323-fd9b-4f57-87af-3df64731e80a
+2025-11-12 23:56:00,390 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Hexxit-3.0 every 5 seconds
+2025-11-12 23:56:00,391 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Hexxit-3.0 every 30 seconds
+2025-11-12 23:56:00,393 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Hexxit-3.0
+2025-11-12 23:56:00,393 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/tempfile.txt is writable
+2025-11-12 23:56:00,395 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Hexxit-3.0 with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-12 23:56:03,031 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Hexxit-3.0 every 5 seconds
+2025-11-12 23:56:03,033 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Hexxit-3.0 every 30 seconds
+2025-11-12 23:56:03,035 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Hexxit-3.0
+2025-11-12 23:56:03,035 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/tempfile.txt is writable
+2025-11-12 23:56:03,037 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Hexxit-3.0 with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-12 23:56:03,038 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-12 23:56:03,038 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-12 23:56:03,041 - [Crafty] - INFO     - app.classes.shared.server - Server Hexxit-3.0 running with PID 23763
+2025-11-12 23:56:18,809 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-12 23:56:18,811 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-12 23:56:23,560 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-12 23:56:23,726 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-12 23:56:28,563 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-12 23:56:28,727 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-12 23:56:33,560 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-12 23:56:33,567 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-12 23:56:33,720 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-12 23:56:38,724 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-12 23:56:43,544 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-12 23:56:43,713 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-12 23:57:37,883 - [Crafty] - INFO     - audit_log - issued command restart_server for server Hexxit-3.0 with ID: 5a2e0323-fd9b-4f57-87af-3df64731e80a
+2025-11-12 23:57:38,426 - [Crafty] - INFO     - app.classes.shared.server - Restart command detected. Sending stop command to 5a2e0323-fd9b-4f57-87af-3df64731e80a.
+2025-11-12 23:57:38,426 - [Crafty] - INFO     - app.classes.shared.server - Stop command requested for Hexxit-3.0.
+2025-11-12 23:57:38,427 - [Crafty] - INFO     - app.classes.shared.server - Cache file refreshed
+2025-11-12 23:57:38,427 - [Crafty] - INFO     - app.classes.shared.server - Server Hexxit-3.0 is still running - waiting 2s to see if it stops(58 seconds until force close)
+2025-11-12 23:57:40,428 - [Crafty] - INFO     - app.classes.shared.server - Server Hexxit-3.0 is still running - waiting 2s to see if it stops(56 seconds until force close)
+2025-11-12 23:57:42,428 - [Crafty] - INFO     - app.classes.shared.server - Server Hexxit-3.0 is still running - waiting 2s to see if it stops(54 seconds until force close)
+2025-11-12 23:57:44,428 - [Crafty] - INFO     - app.classes.shared.server - Stopped Server Hexxit-3.0 with PID 23763
+2025-11-12 23:57:44,430 - [Crafty] - INFO     - app.classes.shared.server - Cleaning up stats schedules for server 5a2e0323-fd9b-4f57-87af-3df64731e80a
+2025-11-12 23:57:46,444 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Hexxit-3.0 every 5 seconds
+2025-11-12 23:57:46,445 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Hexxit-3.0 every 30 seconds
+2025-11-12 23:57:46,446 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Hexxit-3.0
+2025-11-12 23:57:46,447 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/tempfile.txt is writable
+2025-11-12 23:57:46,448 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Hexxit-3.0 with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-12 23:57:46,449 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-12 23:57:46,449 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-12 23:57:46,452 - [Crafty] - INFO     - app.classes.shared.server - Server Hexxit-3.0 running with PID 24458
+2025-11-12 23:58:02,342 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-12 23:58:03,731 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-12 23:58:06,973 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-12 23:59:24,608 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: libraryferret-forge-1.20.1-4.0.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/libraryferret-forge-1.20.1-4.0.0.jar Type: server_upload
+2025-11-12 23:59:24,611 - [Crafty] - INFO     - audit_log - Uploaded file libraryferret-forge-1.20.1-4.0.0.jar
+2025-11-12 23:59:24,614 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: awesomedungeon-forge-1.20.1-3.2.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/awesomedungeon-forge-1.20.1-3.2.0.jar Type: server_upload
+2025-11-12 23:59:24,617 - [Crafty] - INFO     - audit_log - Uploaded file awesomedungeon-forge-1.20.1-3.2.0.jar
+2025-11-12 23:59:24,620 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: dynamiclights-1.20.1.2.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/dynamiclights-1.20.1.2.jar Type: server_upload
+2025-11-12 23:59:24,623 - [Crafty] - INFO     - audit_log - Uploaded file dynamiclights-1.20.1.2.jar
+2025-11-12 23:59:24,624 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: gnetum-2.1.3.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/gnetum-2.1.3.jar Type: server_upload
+2025-11-12 23:59:24,627 - [Crafty] - INFO     - audit_log - Uploaded file gnetum-2.1.3.jar
+2025-11-12 23:59:24,629 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: armordamagescale-1.20.1-3.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/armordamagescale-1.20.1-3.1.jar Type: server_upload
+2025-11-12 23:59:24,632 - [Crafty] - INFO     - audit_log - Uploaded file armordamagescale-1.20.1-3.1.jar
+2025-11-12 23:59:24,672 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: battle_towers-1.4-forge-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/battle_towers-1.4-forge-1.20.1.jar Type: server_upload
+2025-11-12 23:59:24,674 - [Crafty] - INFO     - audit_log - Uploaded file battle_towers-1.4-forge-1.20.1.jar
+2025-11-12 23:59:24,678 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: QuarkOddities-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/QuarkOddities-1.20.1.jar Type: server_upload
+2025-11-12 23:59:24,681 - [Crafty] - INFO     - audit_log - Uploaded file QuarkOddities-1.20.1.jar
+2025-11-12 23:59:24,686 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: immersive_optimization-forge-1.20.1-0.1.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/immersive_optimization-forge-1.20.1-0.1.0.jar Type: server_upload
+2025-11-12 23:59:24,689 - [Crafty] - INFO     - audit_log - Uploaded file immersive_optimization-forge-1.20.1-0.1.0.jar
+2025-11-12 23:59:24,689 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: ironchest-1.20.1-14.4.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/ironchest-1.20.1-14.4.4.jar Type: server_upload
+2025-11-12 23:59:24,691 - [Crafty] - INFO     - audit_log - Uploaded file ironchest-1.20.1-14.4.4.jar
+2025-11-12 23:59:24,757 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: architectury-9.2.14-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/architectury-9.2.14-forge.jar Type: server_upload
+2025-11-12 23:59:24,760 - [Crafty] - INFO     - audit_log - Uploaded file architectury-9.2.14-forge.jar
+2025-11-12 23:59:24,778 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: jauml-1.0.4b-forge-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/jauml-1.0.4b-forge-1.20.1.jar Type: server_upload
+2025-11-12 23:59:24,781 - [Crafty] - INFO     - audit_log - Uploaded file jauml-1.0.4b-forge-1.20.1.jar
+2025-11-12 23:59:24,870 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: gpumemleakfix-1.20.1-1.8.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/gpumemleakfix-1.20.1-1.8.jar Type: server_upload
+2025-11-12 23:59:24,872 - [Crafty] - INFO     - audit_log - Uploaded file gpumemleakfix-1.20.1-1.8.jar
+2025-11-12 23:59:24,875 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: FallingTree-1.20.1-4.3.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/FallingTree-1.20.1-4.3.4.jar Type: server_upload
+2025-11-12 23:59:24,878 - [Crafty] - INFO     - audit_log - Uploaded file FallingTree-1.20.1-4.3.4.jar
+2025-11-12 23:59:24,883 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: lootintegrations-1.20.1-4.7.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/lootintegrations-1.20.1-4.7.jar Type: server_upload
+2025-11-12 23:59:24,886 - [Crafty] - INFO     - audit_log - Uploaded file lootintegrations-1.20.1-4.7.jar
+2025-11-12 23:59:24,887 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: lootintegrations_vanilla-1.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/lootintegrations_vanilla-1.4.jar Type: server_upload
+2025-11-12 23:59:24,890 - [Crafty] - INFO     - audit_log - Uploaded file lootintegrations_vanilla-1.4.jar
+2025-11-12 23:59:24,917 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: ironbookshelves-1.20.1-1.4.11-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/ironbookshelves-1.20.1-1.4.11-forge.jar Type: server_upload
+2025-11-12 23:59:24,921 - [Crafty] - INFO     - audit_log - Uploaded file ironbookshelves-1.20.1-1.4.11-forge.jar
+2025-11-12 23:59:24,942 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: essence_staffs-1.2.0-forge-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/essence_staffs-1.2.0-forge-1.20.1.jar Type: server_upload
+2025-11-12 23:59:24,944 - [Crafty] - INFO     - audit_log - Uploaded file essence_staffs-1.2.0-forge-1.20.1.jar
+2025-11-12 23:59:25,013 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: torohealth-1.20-forge-5.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/torohealth-1.20-forge-5.jar Type: server_upload
+2025-11-12 23:59:25,016 - [Crafty] - INFO     - audit_log - Uploaded file torohealth-1.20-forge-5.jar
+2025-11-12 23:59:25,030 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: appleskin-forge-mc1.20.1-2.5.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/appleskin-forge-mc1.20.1-2.5.1.jar Type: server_upload
+2025-11-12 23:59:25,033 - [Crafty] - INFO     - audit_log - Uploaded file appleskin-forge-mc1.20.1-2.5.1.jar
+2025-11-12 23:59:25,068 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar Type: server_upload
+2025-11-12 23:59:25,070 - [Crafty] - INFO     - audit_log - Uploaded file DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar
+2025-11-12 23:59:25,101 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: melody_forge_1.0.3_MC_1.20.1-1.20.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar Type: server_upload
+2025-11-12 23:59:25,104 - [Crafty] - INFO     - audit_log - Uploaded file melody_forge_1.0.3_MC_1.20.1-1.20.4.jar
+2025-11-12 23:59:25,254 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: MouseTweaks-forge-mc1.20.1-2.25.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar Type: server_upload
+2025-11-12 23:59:25,256 - [Crafty] - INFO     - audit_log - Uploaded file MouseTweaks-forge-mc1.20.1-2.25.1.jar
+2025-11-12 23:59:25,282 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: expandability-9.0.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/expandability-9.0.4.jar Type: server_upload
+2025-11-12 23:59:25,285 - [Crafty] - INFO     - audit_log - Uploaded file expandability-9.0.4.jar
+2025-11-12 23:59:25,314 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: ferritecore-6.0.1-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/ferritecore-6.0.1-forge.jar Type: server_upload
+2025-11-12 23:59:25,316 - [Crafty] - INFO     - audit_log - Uploaded file ferritecore-6.0.1-forge.jar
+2025-11-12 23:59:25,482 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: ironfurnaces-1.20.1-4.1.6.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/ironfurnaces-1.20.1-4.1.6.jar Type: server_upload
+2025-11-12 23:59:25,484 - [Crafty] - INFO     - audit_log - Uploaded file ironfurnaces-1.20.1-4.1.6.jar
+2025-11-12 23:59:25,606 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: flerovium-forge-1.20.1-1.2.15-all.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/flerovium-forge-1.20.1-1.2.15-all.jar Type: server_upload
+2025-11-12 23:59:25,609 - [Crafty] - INFO     - audit_log - Uploaded file flerovium-forge-1.20.1-1.2.15-all.jar
+2025-11-12 23:59:25,655 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: hexxit_gear-1.0.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/hexxit_gear-1.0.1.jar Type: server_upload
+2025-11-12 23:59:25,658 - [Crafty] - INFO     - audit_log - Uploaded file hexxit_gear-1.0.1.jar
+2025-11-12 23:59:25,755 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: konkrete_forge_1.8.0_MC_1.20-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar Type: server_upload
+2025-11-12 23:59:25,758 - [Crafty] - INFO     - audit_log - Uploaded file konkrete_forge_1.8.0_MC_1.20-1.20.1.jar
+2025-11-12 23:59:25,769 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: mcwifipnp-1.7.6-1.20.1-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/mcwifipnp-1.7.6-1.20.1-forge.jar Type: server_upload
+2025-11-12 23:59:25,772 - [Crafty] - INFO     - audit_log - Uploaded file mcwifipnp-1.7.6-1.20.1-forge.jar
+2025-11-12 23:59:25,787 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: CloudBoots-1.20.1-3.0.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/CloudBoots-1.20.1-3.0.0.jar Type: server_upload
+2025-11-12 23:59:25,790 - [Crafty] - INFO     - audit_log - Uploaded file CloudBoots-1.20.1-3.0.0.jar
+2025-11-12 23:59:25,809 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: cupboard-1.20.1-2.7.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/cupboard-1.20.1-2.7.jar Type: server_upload
+2025-11-12 23:59:25,811 - [Crafty] - INFO     - audit_log - Uploaded file cupboard-1.20.1-2.7.jar
+2025-11-12 23:59:25,949 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: YungsApi-1.20-Forge-4.0.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/YungsApi-1.20-Forge-4.0.1.jar Type: server_upload
+2025-11-12 23:59:25,952 - [Crafty] - INFO     - audit_log - Uploaded file YungsApi-1.20-Forge-4.0.1.jar
+2025-11-12 23:59:25,995 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: weaponmaster_ydm-forge-1.20.1-4.2.3.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar Type: server_upload
+2025-11-12 23:59:25,998 - [Crafty] - INFO     - audit_log - Uploaded file weaponmaster_ydm-forge-1.20.1-4.2.3.jar
+2025-11-12 23:59:26,066 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: ImmediatelyFast-Forge-1.5.2+1.20.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/ImmediatelyFast-Forge-1.5.2+1.20.4.jar Type: server_upload
+2025-11-12 23:59:26,069 - [Crafty] - INFO     - audit_log - Uploaded file ImmediatelyFast-Forge-1.5.2+1.20.4.jar
+2025-11-12 23:59:26,118 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: TinkersLevellingAddon-1.20.1-1.4.3.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/TinkersLevellingAddon-1.20.1-1.4.3.jar Type: server_upload
+2025-11-12 23:59:26,121 - [Crafty] - INFO     - audit_log - Uploaded file TinkersLevellingAddon-1.20.1-1.4.3.jar
+2025-11-12 23:59:26,302 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: dldungeonsjbg-2.1.2-MC1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/dldungeonsjbg-2.1.2-MC1.20.1.jar Type: server_upload
+2025-11-12 23:59:26,306 - [Crafty] - INFO     - audit_log - Uploaded file dldungeonsjbg-2.1.2-MC1.20.1.jar
+2025-11-12 23:59:26,377 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: dungeons_enhanced-1.20.1-5.2.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/dungeons_enhanced-1.20.1-5.2.jar Type: server_upload
+2025-11-12 23:59:26,380 - [Crafty] - INFO     - audit_log - Uploaded file dungeons_enhanced-1.20.1-5.2.jar
+2025-11-12 23:59:26,425 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Capsule-1.20.1-8.0.105.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/Capsule-1.20.1-8.0.105.jar Type: server_upload
+2025-11-12 23:59:26,428 - [Crafty] - INFO     - audit_log - Uploaded file Capsule-1.20.1-8.0.105.jar
+2025-11-12 23:59:26,484 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: curios-forge-5.12.0+1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/curios-forge-5.12.0+1.20.1.jar Type: server_upload
+2025-11-12 23:59:26,487 - [Crafty] - INFO     - audit_log - Uploaded file curios-forge-5.12.0+1.20.1.jar
+2025-11-12 23:59:26,528 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: inventoryhud.forge.1.20.1-3.4.26.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/inventoryhud.forge.1.20.1-3.4.26.jar Type: server_upload
+2025-11-12 23:59:26,531 - [Crafty] - INFO     - audit_log - Uploaded file inventoryhud.forge.1.20.1-3.4.26.jar
+2025-11-12 23:59:26,553 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: AsgardShieldReloaded-1.20.1-0.2.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/AsgardShieldReloaded-1.20.1-0.2.jar Type: server_upload
+2025-11-12 23:59:26,556 - [Crafty] - INFO     - audit_log - Uploaded file AsgardShieldReloaded-1.20.1-0.2.jar
+2025-11-12 23:59:26,668 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Dungeon Crawl-1.20.1-2.3.15.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/Dungeon Crawl-1.20.1-2.3.15.jar Type: server_upload
+2025-11-12 23:59:26,671 - [Crafty] - INFO     - audit_log - Uploaded file Dungeon Crawl-1.20.1-2.3.15.jar
+2025-11-12 23:59:26,770 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: lodestone-1.20.1-1.6.4.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/lodestone-1.20.1-1.6.4.1.jar Type: server_upload
+2025-11-12 23:59:26,773 - [Crafty] - INFO     - audit_log - Uploaded file lodestone-1.20.1-1.6.4.1.jar
+2025-11-12 23:59:26,977 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: PuzzlesLib-v8.1.33-1.20.1-Forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar Type: server_upload
+2025-11-12 23:59:26,980 - [Crafty] - INFO     - audit_log - Uploaded file PuzzlesLib-v8.1.33-1.20.1-Forge.jar
+2025-11-12 23:59:27,116 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: l2backpack-2.5.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/l2backpack-2.5.4.jar Type: server_upload
+2025-11-12 23:59:27,118 - [Crafty] - INFO     - audit_log - Uploaded file l2backpack-2.5.4.jar
+2025-11-12 23:59:27,206 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Corail-Backpack-1.20.1-185.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/Corail-Backpack-1.20.1-185.jar Type: server_upload
+2025-11-12 23:59:27,208 - [Crafty] - INFO     - audit_log - Uploaded file Corail-Backpack-1.20.1-185.jar
+2025-11-12 23:59:27,410 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: YungsBetterDungeons-1.20-Forge-4.0.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar Type: server_upload
+2025-11-12 23:59:27,413 - [Crafty] - INFO     - audit_log - Uploaded file YungsBetterDungeons-1.20-Forge-4.0.4.jar
+2025-11-12 23:59:27,682 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: chococraft-1.20.1-forge-0.9.12.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/chococraft-1.20.1-forge-0.9.12.jar Type: server_upload
+2025-11-12 23:59:27,685 - [Crafty] - INFO     - audit_log - Uploaded file chococraft-1.20.1-forge-0.9.12.jar
+2025-11-12 23:59:27,936 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: crust-1.20.1-4.7.14.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/crust-1.20.1-4.7.14.jar Type: server_upload
+2025-11-12 23:59:27,940 - [Crafty] - INFO     - audit_log - Uploaded file crust-1.20.1-4.7.14.jar
+2025-11-12 23:59:28,079 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: structure_gel-1.20.1-2.16.2.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/structure_gel-1.20.1-2.16.2.jar Type: server_upload
+2025-11-12 23:59:28,082 - [Crafty] - INFO     - audit_log - Uploaded file structure_gel-1.20.1-2.16.2.jar
+2025-11-12 23:59:28,226 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: XaerosWorldMap_1.39.12_Forge_1.20.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/XaerosWorldMap_1.39.12_Forge_1.20.jar Type: server_upload
+2025-11-12 23:59:28,228 - [Crafty] - INFO     - audit_log - Uploaded file XaerosWorldMap_1.39.12_Forge_1.20.jar
+2025-11-12 23:59:28,467 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: radium-mc1.20.1-0.12.4+git.26c9d8e.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar Type: server_upload
+2025-11-12 23:59:28,470 - [Crafty] - INFO     - audit_log - Uploaded file radium-mc1.20.1-0.12.4+git.26c9d8e.jar
+2025-11-12 23:59:28,590 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: modernfix-forge-5.24.4+mc1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/modernfix-forge-5.24.4+mc1.20.1.jar Type: server_upload
+2025-11-12 23:59:28,592 - [Crafty] - INFO     - audit_log - Uploaded file modernfix-forge-5.24.4+mc1.20.1.jar
+2025-11-12 23:59:28,718 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: memory_of_the_past-1.8.0-forge-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/memory_of_the_past-1.8.0-forge-1.20.1.jar Type: server_upload
+2025-11-12 23:59:28,721 - [Crafty] - INFO     - audit_log - Uploaded file memory_of_the_past-1.8.0-forge-1.20.1.jar
+2025-11-12 23:59:28,846 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: l2library-2.5.3.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/l2library-2.5.3.jar Type: server_upload
+2025-11-12 23:59:28,849 - [Crafty] - INFO     - audit_log - Uploaded file l2library-2.5.3.jar
+2025-11-12 23:59:28,996 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: geckolib-forge-1.20.1-4.7.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/geckolib-forge-1.20.1-4.7.4.jar Type: server_upload
+2025-11-12 23:59:28,999 - [Crafty] - INFO     - audit_log - Uploaded file geckolib-forge-1.20.1-4.7.4.jar
+2025-11-12 23:59:29,375 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: cloth-config-11.1.136-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/cloth-config-11.1.136-forge.jar Type: server_upload
+2025-11-12 23:59:29,378 - [Crafty] - INFO     - audit_log - Uploaded file cloth-config-11.1.136-forge.jar
+2025-11-12 23:59:29,517 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: emi-1.1.22+1.20.1+forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/emi-1.1.22+1.20.1+forge.jar Type: server_upload
+2025-11-12 23:59:29,519 - [Crafty] - INFO     - audit_log - Uploaded file emi-1.1.22+1.20.1+forge.jar
+2025-11-12 23:59:29,666 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Zeta-1.0-30.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/Zeta-1.0-30.jar Type: server_upload
+2025-11-12 23:59:29,669 - [Crafty] - INFO     - audit_log - Uploaded file Zeta-1.0-30.jar
+2025-11-12 23:59:29,845 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: PirateGunsV2_1.2.0.2.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/PirateGunsV2_1.2.0.2.jar Type: server_upload
+2025-11-12 23:59:29,848 - [Crafty] - INFO     - audit_log - Uploaded file PirateGunsV2_1.2.0.2.jar
+2025-11-12 23:59:29,907 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar Type: server_upload
+2025-11-12 23:59:29,910 - [Crafty] - INFO     - audit_log - Uploaded file yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar
+2025-11-12 23:59:30,526 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: hexxit_additions-1.0.2-forge-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/hexxit_additions-1.0.2-forge-1.20.1.jar Type: server_upload
+2025-11-12 23:59:30,529 - [Crafty] - INFO     - audit_log - Uploaded file hexxit_additions-1.0.2-forge-1.20.1.jar
+2025-11-12 23:59:30,834 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Philips-Ruins1.20.1-5.5.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/Philips-Ruins1.20.1-5.5.jar Type: server_upload
+2025-11-12 23:59:30,837 - [Crafty] - INFO     - audit_log - Uploaded file Philips-Ruins1.20.1-5.5.jar
+2025-11-12 23:59:31,187 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: alltheleaks-1.0.4+1.20.1-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/alltheleaks-1.0.4+1.20.1-forge.jar Type: server_upload
+2025-11-12 23:59:31,190 - [Crafty] - INFO     - audit_log - Uploaded file alltheleaks-1.0.4+1.20.1-forge.jar
+2025-11-12 23:59:31,362 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: embeddium-0.3.31+mc1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/embeddium-0.3.31+mc1.20.1.jar Type: server_upload
+2025-11-12 23:59:31,366 - [Crafty] - INFO     - audit_log - Uploaded file embeddium-0.3.31+mc1.20.1.jar
+2025-11-12 23:59:31,680 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Mantle-1.20.1-1.11.79.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/Mantle-1.20.1-1.11.79.jar Type: server_upload
+2025-11-12 23:59:31,682 - [Crafty] - INFO     - audit_log - Uploaded file Mantle-1.20.1-1.11.79.jar
+2025-11-12 23:59:31,840 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: servercore-forge-1.5.2+1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/servercore-forge-1.5.2+1.20.1.jar Type: server_upload
+2025-11-12 23:59:31,844 - [Crafty] - INFO     - audit_log - Uploaded file servercore-forge-1.5.2+1.20.1.jar
+2025-11-12 23:59:32,002 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: keebszs_battletowers_0.6.0-1.20.1BETA.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/keebszs_battletowers_0.6.0-1.20.1BETA.jar Type: server_upload
+2025-11-12 23:59:32,005 - [Crafty] - INFO     - audit_log - Uploaded file keebszs_battletowers_0.6.0-1.20.1BETA.jar
+2025-11-12 23:59:32,157 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: exoticbirds-1.20.1-1.0.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/exoticbirds-1.20.1-1.0.0.jar Type: server_upload
+2025-11-12 23:59:32,160 - [Crafty] - INFO     - audit_log - Uploaded file exoticbirds-1.20.1-1.0.0.jar
+2025-11-12 23:59:32,445 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: bettervillage-forge-1.20.1-3.2.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/bettervillage-forge-1.20.1-3.2.0.jar Type: server_upload
+2025-11-12 23:59:32,449 - [Crafty] - INFO     - audit_log - Uploaded file bettervillage-forge-1.20.1-3.2.0.jar
+2025-11-12 23:59:32,691 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Xaeros_Minimap_25.2.10_Forge_1.20.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/Xaeros_Minimap_25.2.10_Forge_1.20.jar Type: server_upload
+2025-11-12 23:59:32,695 - [Crafty] - INFO     - audit_log - Uploaded file Xaeros_Minimap_25.2.10_Forge_1.20.jar
+2025-11-12 23:59:33,543 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: reliquary-1.20.1-2.0.54.1304.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/reliquary-1.20.1-2.0.54.1304.jar Type: server_upload
+2025-11-12 23:59:33,546 - [Crafty] - INFO     - audit_log - Uploaded file reliquary-1.20.1-2.0.54.1304.jar
+2025-11-12 23:59:34,200 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: specialmobs-1.20.1-4.1.15.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/specialmobs-1.20.1-4.1.15.jar Type: server_upload
+2025-11-12 23:59:34,204 - [Crafty] - INFO     - audit_log - Uploaded file specialmobs-1.20.1-4.1.15.jar
+2025-11-12 23:59:34,667 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: citadel-2.6.2-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/citadel-2.6.2-1.20.1.jar Type: server_upload
+2025-11-12 23:59:34,670 - [Crafty] - INFO     - audit_log - Uploaded file citadel-2.6.2-1.20.1.jar
+2025-11-12 23:59:35,238 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: fancymenu_forge_3.7.0_MC_1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/fancymenu_forge_3.7.0_MC_1.20.1.jar Type: server_upload
+2025-11-12 23:59:35,240 - [Crafty] - INFO     - audit_log - Uploaded file fancymenu_forge_3.7.0_MC_1.20.1.jar
+2025-11-12 23:59:35,593 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: ATi Structures V1.4.3 (1.20+).jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/ATi Structures V1.4.3 (1.20+).jar Type: server_upload
+2025-11-12 23:59:35,596 - [Crafty] - INFO     - audit_log - Uploaded file ATi Structures V1.4.3 (1.20+).jar
+2025-11-12 23:59:35,659 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: simplefarming-1.20.1-2.1.6.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/simplefarming-1.20.1-2.1.6.jar Type: server_upload
+2025-11-12 23:59:35,662 - [Crafty] - INFO     - audit_log - Uploaded file simplefarming-1.20.1-2.1.6.jar
+2025-11-12 23:59:35,731 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: oculus-mc1.20.1-1.8.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/oculus-mc1.20.1-1.8.0.jar Type: server_upload
+2025-11-12 23:59:35,734 - [Crafty] - INFO     - audit_log - Uploaded file oculus-mc1.20.1-1.8.0.jar
+2025-11-12 23:59:35,863 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: modulargolems-2.6.9.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/modulargolems-2.6.9.jar Type: server_upload
+2025-11-12 23:59:35,866 - [Crafty] - INFO     - audit_log - Uploaded file modulargolems-2.6.9.jar
+2025-11-12 23:59:37,730 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Legendary Armory 1.20.1 1.4.8.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/Legendary Armory 1.20.1 1.4.8.jar Type: server_upload
+2025-11-12 23:59:37,733 - [Crafty] - INFO     - audit_log - Uploaded file Legendary Armory 1.20.1 1.4.8.jar
+2025-11-12 23:59:44,578 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Quark-4.0-462.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/Quark-4.0-462.jar Type: server_upload
+2025-11-12 23:59:44,581 - [Crafty] - INFO     - audit_log - Uploaded file Quark-4.0-462.jar
+2025-11-12 23:59:46,757 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: dimdoors-5.4.4-1.20.1-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/dimdoors-5.4.4-1.20.1-forge.jar Type: server_upload
+2025-11-12 23:59:46,760 - [Crafty] - INFO     - audit_log - Uploaded file dimdoors-5.4.4-1.20.1-forge.jar
+2025-11-13 00:00:00,792 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: TConstruct-1.20.1-3.10.2.92.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/TConstruct-1.20.1-3.10.2.92.jar Type: server_upload
+2025-11-13 00:00:00,796 - [Crafty] - INFO     - audit_log - Uploaded file TConstruct-1.20.1-3.10.2.92.jar
+2025-11-13 00:00:01,876 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: malum-1.20.1-1.6.6.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/malum-1.20.1-1.6.6.jar Type: server_upload
+2025-11-13 00:00:01,879 - [Crafty] - INFO     - audit_log - Uploaded file malum-1.20.1-1.6.6.jar
+2025-11-13 00:00:02,467 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: twilightforest-1.20.1-4.3.2508-universal.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/twilightforest-1.20.1-4.3.2508-universal.jar Type: server_upload
+2025-11-13 00:00:02,471 - [Crafty] - INFO     - audit_log - Uploaded file twilightforest-1.20.1-4.3.2508-universal.jar
+2025-11-13 00:00:02,757 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: mocreatures-1.20.1-1.0.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/mocreatures-1.20.1-1.0.0.jar Type: server_upload
+2025-11-13 00:00:02,761 - [Crafty] - INFO     - audit_log - Uploaded file mocreatures-1.20.1-1.0.0.jar
+2025-11-13 00:00:02,781 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: even_more_magic_1.20.1(v.1.869).jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/mods/even_more_magic_1.20.1(v.1.869).jar Type: server_upload
+2025-11-13 00:00:02,784 - [Crafty] - INFO     - audit_log - Uploaded file even_more_magic_1.20.1(v.1.869).jar
+2025-11-13 00:01:11,657 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: xaeromap.txt Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/xaeromap.txt Type: server_upload
+2025-11-13 00:01:11,659 - [Crafty] - INFO     - audit_log - Uploaded file xaeromap.txt
+2025-11-13 00:01:11,661 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: session.lock Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/session.lock Type: server_upload
+2025-11-13 00:01:11,663 - [Crafty] - INFO     - audit_log - Uploaded file session.lock
+2025-11-13 00:01:11,748 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: icon.png Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/icon.png Type: server_upload
+2025-11-13 00:01:11,750 - [Crafty] - INFO     - audit_log - Uploaded file icon.png
+2025-11-13 00:01:12,392 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: level.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/level.dat Type: server_upload
+2025-11-13 00:01:12,394 - [Crafty] - INFO     - audit_log - Uploaded file level.dat
+2025-11-13 00:01:12,562 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: mcwifipnp.json Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/mcwifipnp.json Type: server_upload
+2025-11-13 00:01:12,565 - [Crafty] - INFO     - audit_log - Uploaded file mcwifipnp.json
+2025-11-13 00:01:12,986 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: level.dat_old Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/level.dat_old Type: server_upload
+2025-11-13 00:01:12,988 - [Crafty] - INFO     - audit_log - Uploaded file level.dat_old
+2025-11-13 00:03:25,119 - [Crafty] - INFO     - audit_log - issued command stop_server for server Hexxit-3.0 with ID: 5a2e0323-fd9b-4f57-87af-3df64731e80a
+2025-11-13 00:03:25,494 - [Crafty] - INFO     - app.classes.shared.server - Stop command requested for Hexxit-3.0.
+2025-11-13 00:03:25,495 - [Crafty] - INFO     - app.classes.shared.server - Cache file refreshed
+2025-11-13 00:03:25,496 - [Crafty] - INFO     - app.classes.shared.server - Server Hexxit-3.0 is still running - waiting 2s to see if it stops(58 seconds until force close)
+2025-11-13 00:03:27,496 - [Crafty] - INFO     - app.classes.shared.server - Server Hexxit-3.0 is still running - waiting 2s to see if it stops(56 seconds until force close)
+2025-11-13 00:03:29,496 - [Crafty] - INFO     - app.classes.shared.server - Server Hexxit-3.0 is still running - waiting 2s to see if it stops(54 seconds until force close)
+2025-11-13 00:03:31,497 - [Crafty] - INFO     - app.classes.shared.server - Stopped Server Hexxit-3.0 with PID 24458
+2025-11-13 00:03:31,498 - [Crafty] - INFO     - app.classes.shared.server - Cleaning up stats schedules for server 5a2e0323-fd9b-4f57-87af-3df64731e80a
+2025-11-13 00:03:56,929 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: session.lock Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/session.lock Type: server_upload
+2025-11-13 00:03:56,932 - [Crafty] - INFO     - audit_log - Uploaded file session.lock
+2025-11-13 00:03:56,954 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: xaeromap.txt Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/xaeromap.txt Type: server_upload
+2025-11-13 00:03:56,956 - [Crafty] - INFO     - audit_log - Uploaded file xaeromap.txt
+2025-11-13 00:03:56,958 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: mcwifipnp.json Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/mcwifipnp.json Type: server_upload
+2025-11-13 00:03:56,960 - [Crafty] - INFO     - audit_log - Uploaded file mcwifipnp.json
+2025-11-13 00:03:57,078 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: icon.png Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/icon.png Type: server_upload
+2025-11-13 00:03:57,080 - [Crafty] - INFO     - audit_log - Uploaded file icon.png
+2025-11-13 00:03:57,581 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: level.dat_old Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/level.dat_old Type: server_upload
+2025-11-13 00:03:57,583 - [Crafty] - INFO     - audit_log - Uploaded file level.dat_old
+2025-11-13 00:03:57,657 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: level.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/level.dat Type: server_upload
+2025-11-13 00:03:57,659 - [Crafty] - INFO     - audit_log - Uploaded file level.dat
+2025-11-13 00:04:28,214 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: capsuleData.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/data/capsuleData.dat Type: server_upload
+2025-11-13 00:04:28,216 - [Crafty] - INFO     - audit_log - Uploaded file capsuleData.dat
+2025-11-13 00:04:28,240 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: mfix_strongholds.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/data/mfix_strongholds.dat Type: server_upload
+2025-11-13 00:04:28,243 - [Crafty] - INFO     - audit_log - Uploaded file mfix_strongholds.dat
+2025-11-13 00:04:28,245 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: mocreatures.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/data/mocreatures.dat Type: server_upload
+2025-11-13 00:04:28,248 - [Crafty] - INFO     - audit_log - Uploaded file mocreatures.dat
+2025-11-13 00:04:28,252 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: citadel_world_data.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/data/citadel_world_data.dat Type: server_upload
+2025-11-13 00:04:28,255 - [Crafty] - INFO     - audit_log - Uploaded file citadel_world_data.dat
+2025-11-13 00:04:28,256 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: even_more_magic_worldvars.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/data/even_more_magic_worldvars.dat Type: server_upload
+2025-11-13 00:04:28,259 - [Crafty] - INFO     - audit_log - Uploaded file even_more_magic_worldvars.dat
+2025-11-13 00:04:28,260 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: raids.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/data/raids.dat Type: server_upload
+2025-11-13 00:04:28,262 - [Crafty] - INFO     - audit_log - Uploaded file raids.dat
+2025-11-13 00:04:28,264 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: capabilities.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/data/capabilities.dat Type: server_upload
+2025-11-13 00:04:28,267 - [Crafty] - INFO     - audit_log - Uploaded file capabilities.dat
+2025-11-13 00:04:28,269 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: random_sequences.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/data/random_sequences.dat Type: server_upload
+2025-11-13 00:04:28,273 - [Crafty] - INFO     - audit_log - Uploaded file random_sequences.dat
+2025-11-13 00:04:28,274 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: scoreboard.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/data/scoreboard.dat Type: server_upload
+2025-11-13 00:04:28,277 - [Crafty] - INFO     - audit_log - Uploaded file scoreboard.dat
+2025-11-13 00:05:15,797 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: raids.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/DIM-1/data/raids.dat Type: server_upload
+2025-11-13 00:05:15,800 - [Crafty] - INFO     - audit_log - Uploaded file raids.dat
+2025-11-13 00:05:16,124 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: capabilities.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/DIM-1/data/capabilities.dat Type: server_upload
+2025-11-13 00:05:16,126 - [Crafty] - INFO     - audit_log - Uploaded file capabilities.dat
+2025-11-13 00:05:39,066 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: raids_end.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/DIM1/data/raids_end.dat Type: server_upload
+2025-11-13 00:05:39,069 - [Crafty] - INFO     - audit_log - Uploaded file raids_end.dat
+2025-11-13 00:05:39,094 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: capabilities.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/DIM1/data/capabilities.dat Type: server_upload
+2025-11-13 00:05:39,096 - [Crafty] - INFO     - audit_log - Uploaded file capabilities.dat
+2025-11-13 00:06:01,392 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.-1.1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/entities/r.-1.1.mca Type: server_upload
+2025-11-13 00:06:01,394 - [Crafty] - INFO     - audit_log - Uploaded file r.-1.1.mca
+2025-11-13 00:06:01,465 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.1.0.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/entities/r.1.0.mca Type: server_upload
+2025-11-13 00:06:01,467 - [Crafty] - INFO     - audit_log - Uploaded file r.1.0.mca
+2025-11-13 00:06:01,479 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.1.-1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/entities/r.1.-1.mca Type: server_upload
+2025-11-13 00:06:01,481 - [Crafty] - INFO     - audit_log - Uploaded file r.1.-1.mca
+2025-11-13 00:06:01,519 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.0.1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/entities/r.0.1.mca Type: server_upload
+2025-11-13 00:06:01,522 - [Crafty] - INFO     - audit_log - Uploaded file r.0.1.mca
+2025-11-13 00:06:02,540 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.0.-1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/entities/r.0.-1.mca Type: server_upload
+2025-11-13 00:06:02,542 - [Crafty] - INFO     - audit_log - Uploaded file r.0.-1.mca
+2025-11-13 00:06:02,755 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.-1.-1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/entities/r.-1.-1.mca Type: server_upload
+2025-11-13 00:06:02,758 - [Crafty] - INFO     - audit_log - Uploaded file r.-1.-1.mca
+2025-11-13 00:06:03,076 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.-1.0.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/entities/r.-1.0.mca Type: server_upload
+2025-11-13 00:06:03,078 - [Crafty] - INFO     - audit_log - Uploaded file r.-1.0.mca
+2025-11-13 00:06:03,180 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.0.0.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/entities/r.0.0.mca Type: server_upload
+2025-11-13 00:06:03,182 - [Crafty] - INFO     - audit_log - Uploaded file r.0.0.mca
+2025-11-13 00:06:29,543 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: c6124413-2d5d-49d0-ac23-c7d2231670b2.dat Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/playerdata/c6124413-2d5d-49d0-ac23-c7d2231670b2.dat Type: server_upload
+2025-11-13 00:06:29,546 - [Crafty] - INFO     - audit_log - Uploaded file c6124413-2d5d-49d0-ac23-c7d2231670b2.dat
+2025-11-13 00:06:29,565 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: c6124413-2d5d-49d0-ac23-c7d2231670b2.dat_old Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/playerdata/c6124413-2d5d-49d0-ac23-c7d2231670b2.dat_old Type: server_upload
+2025-11-13 00:06:29,567 - [Crafty] - INFO     - audit_log - Uploaded file c6124413-2d5d-49d0-ac23-c7d2231670b2.dat_old
+2025-11-13 00:06:49,636 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.-1.1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/poi/r.-1.1.mca Type: server_upload
+2025-11-13 00:06:49,638 - [Crafty] - INFO     - audit_log - Uploaded file r.-1.1.mca
+2025-11-13 00:06:49,721 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.0.-1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/poi/r.0.-1.mca Type: server_upload
+2025-11-13 00:06:49,723 - [Crafty] - INFO     - audit_log - Uploaded file r.0.-1.mca
+2025-11-13 00:06:49,907 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.-1.0.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/poi/r.-1.0.mca Type: server_upload
+2025-11-13 00:06:49,909 - [Crafty] - INFO     - audit_log - Uploaded file r.-1.0.mca
+2025-11-13 00:06:50,149 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.-1.-1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/poi/r.-1.-1.mca Type: server_upload
+2025-11-13 00:06:50,151 - [Crafty] - INFO     - audit_log - Uploaded file r.-1.-1.mca
+2025-11-13 00:06:50,291 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.0.0.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/poi/r.0.0.mca Type: server_upload
+2025-11-13 00:06:50,293 - [Crafty] - INFO     - audit_log - Uploaded file r.0.0.mca
+2025-11-13 00:07:14,467 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.-2.-2.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.-2.-2.mca Type: server_upload
+2025-11-13 00:07:14,469 - [Crafty] - INFO     - audit_log - Uploaded file r.-2.-2.mca
+2025-11-13 00:07:14,942 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.1.-2.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.1.-2.mca Type: server_upload
+2025-11-13 00:07:14,945 - [Crafty] - INFO     - audit_log - Uploaded file r.1.-2.mca
+2025-11-13 00:07:15,018 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.-2.1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.-2.1.mca Type: server_upload
+2025-11-13 00:07:15,020 - [Crafty] - INFO     - audit_log - Uploaded file r.-2.1.mca
+2025-11-13 00:07:15,791 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.-1.-2.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.-1.-2.mca Type: server_upload
+2025-11-13 00:07:15,794 - [Crafty] - INFO     - audit_log - Uploaded file r.-1.-2.mca
+2025-11-13 00:07:16,184 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.-2.-1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.-2.-1.mca Type: server_upload
+2025-11-13 00:07:16,186 - [Crafty] - INFO     - audit_log - Uploaded file r.-2.-1.mca
+2025-11-13 00:07:16,563 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.0.-2.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.0.-2.mca Type: server_upload
+2025-11-13 00:07:16,565 - [Crafty] - INFO     - audit_log - Uploaded file r.0.-2.mca
+2025-11-13 00:07:16,610 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.1.1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.1.1.mca Type: server_upload
+2025-11-13 00:07:16,614 - [Crafty] - INFO     - audit_log - Uploaded file r.1.1.mca
+2025-11-13 00:07:16,760 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.-2.0.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.-2.0.mca Type: server_upload
+2025-11-13 00:07:16,762 - [Crafty] - INFO     - audit_log - Uploaded file r.-2.0.mca
+2025-11-13 00:07:21,401 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.-1.1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.-1.1.mca Type: server_upload
+2025-11-13 00:07:21,405 - [Crafty] - INFO     - audit_log - Uploaded file r.-1.1.mca
+2025-11-13 00:07:21,823 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.0.1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.0.1.mca Type: server_upload
+2025-11-13 00:07:21,825 - [Crafty] - INFO     - audit_log - Uploaded file r.0.1.mca
+2025-11-13 00:07:22,090 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.1.-1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.1.-1.mca Type: server_upload
+2025-11-13 00:07:22,093 - [Crafty] - INFO     - audit_log - Uploaded file r.1.-1.mca
+2025-11-13 00:07:22,190 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.1.0.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.1.0.mca Type: server_upload
+2025-11-13 00:07:22,192 - [Crafty] - INFO     - audit_log - Uploaded file r.1.0.mca
+2025-11-13 00:07:33,217 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.-1.0.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.-1.0.mca Type: server_upload
+2025-11-13 00:07:33,221 - [Crafty] - INFO     - audit_log - Uploaded file r.-1.0.mca
+2025-11-13 00:07:35,194 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.0.0.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.0.0.mca Type: server_upload
+2025-11-13 00:07:35,197 - [Crafty] - INFO     - audit_log - Uploaded file r.0.0.mca
+2025-11-13 00:07:35,370 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.0.-1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.0.-1.mca Type: server_upload
+2025-11-13 00:07:35,373 - [Crafty] - INFO     - audit_log - Uploaded file r.0.-1.mca
+2025-11-13 00:07:36,156 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: r.-1.-1.mca Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/region/r.-1.-1.mca Type: server_upload
+2025-11-13 00:07:36,159 - [Crafty] - INFO     - audit_log - Uploaded file r.-1.-1.mca
+2025-11-13 00:08:07,780 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: curios-server.toml Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/serverconfig/curios-server.toml Type: server_upload
+2025-11-13 00:08:07,783 - [Crafty] - INFO     - audit_log - Uploaded file curios-server.toml
+2025-11-13 00:08:07,787 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: mantle-server.toml Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/serverconfig/mantle-server.toml Type: server_upload
+2025-11-13 00:08:07,789 - [Crafty] - INFO     - audit_log - Uploaded file mantle-server.toml
+2025-11-13 00:08:07,836 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: jgpg-server.toml Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/serverconfig/jgpg-server.toml Type: server_upload
+2025-11-13 00:08:07,838 - [Crafty] - INFO     - audit_log - Uploaded file jgpg-server.toml
+2025-11-13 00:08:07,889 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: forge-server.toml Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/serverconfig/forge-server.toml Type: server_upload
+2025-11-13 00:08:07,892 - [Crafty] - INFO     - audit_log - Uploaded file forge-server.toml
+2025-11-13 00:08:07,925 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: tinkerslevellingaddon-server.toml Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/serverconfig/tinkerslevellingaddon-server.toml Type: server_upload
+2025-11-13 00:08:07,928 - [Crafty] - INFO     - audit_log - Uploaded file tinkerslevellingaddon-server.toml
+2025-11-13 00:08:08,665 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: corail_backpack-server.toml Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/serverconfig/corail_backpack-server.toml Type: server_upload
+2025-11-13 00:08:08,667 - [Crafty] - INFO     - audit_log - Uploaded file corail_backpack-server.toml
+2025-11-13 00:10:11,083 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: c-thorfinn-config_capsule_starters__stater_darkoak_hut-0.nbt Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/capsules/c-thorfinn-config_capsule_starters__stater_darkoak_hut-0.nbt Type: server_upload
+2025-11-13 00:10:11,086 - [Crafty] - INFO     - audit_log - Uploaded file c-thorfinn-config_capsule_starters__stater_darkoak_hut-0.nbt
+2025-11-13 00:10:26,555 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: c6124413-2d5d-49d0-ac23-c7d2231670b2.json Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/advancements/c6124413-2d5d-49d0-ac23-c7d2231670b2.json Type: server_upload
+2025-11-13 00:10:26,557 - [Crafty] - INFO     - audit_log - Uploaded file c6124413-2d5d-49d0-ac23-c7d2231670b2.json
+2025-11-13 00:11:29,935 - [Crafty] - ERROR    - tornado.application - Uncaught exception POST /api/v2/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/files (::1)
+HTTPServerRequest(protocol='https', host='localhost:8443', method='POST', uri='/api/v2/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/files', version='HTTP/1.1', remote_ip='::1')
+Traceback (most recent call last):
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/tornado/web.py", line 1846, in _execute
+    result = method(*self.path_args, **self.path_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/web/routes/api/servers/server/files.py", line 270, in post
+    self.finish_json(200, {"status": "ok", "data": file_contents})
+                                                   ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'file_contents' where it is not associated with a value
+2025-11-13 00:11:46,665 - [Crafty] - ERROR    - tornado.application - Uncaught exception POST /api/v2/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/files (::1)
+HTTPServerRequest(protocol='https', host='localhost:8443', method='POST', uri='/api/v2/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/files', version='HTTP/1.1', remote_ip='::1')
+Traceback (most recent call last):
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/tornado/web.py", line 1846, in _execute
+    result = method(*self.path_args, **self.path_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/web/routes/api/servers/server/files.py", line 270, in post
+    self.finish_json(200, {"status": "ok", "data": file_contents})
+                                                   ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'file_contents' where it is not associated with a value
+2025-11-13 00:14:22,680 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: c6124413-2d5d-49d0-ac23-c7d2231670b2.json Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/advancements/c6124413-2d5d-49d0-ac23-c7d2231670b2.json Type: server_upload
+2025-11-13 00:14:22,682 - [Crafty] - INFO     - audit_log - Uploaded file c6124413-2d5d-49d0-ac23-c7d2231670b2.json
+2025-11-13 00:14:36,215 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: c-thorfinn-config_capsule_starters__stater_darkoak_hut-0.nbt Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/world/capsules/c-thorfinn-config_capsule_starters__stater_darkoak_hut-0.nbt Type: server_upload
+2025-11-13 00:14:36,217 - [Crafty] - INFO     - audit_log - Uploaded file c-thorfinn-config_capsule_starters__stater_darkoak_hut-0.nbt
+2025-11-13 00:16:32,777 - [Crafty] - INFO     - audit_log - issued command start_server for server Hexxit-3.0 with ID: 5a2e0323-fd9b-4f57-87af-3df64731e80a
+2025-11-13 00:16:33,619 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Hexxit-3.0 every 5 seconds
+2025-11-13 00:16:33,620 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Hexxit-3.0 every 30 seconds
+2025-11-13 00:16:33,622 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Hexxit-3.0
+2025-11-13 00:16:33,622 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/tempfile.txt is writable
+2025-11-13 00:16:33,624 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Hexxit-3.0 with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 00:16:33,624 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 00:16:33,624 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 00:16:33,627 - [Crafty] - INFO     - app.classes.shared.server - Server Hexxit-3.0 running with PID 32311
+2025-11-13 01:06:39,219 - [Crafty] - INFO     - audit_log - issued command restart_server for server Hexxit-3.0 with ID: 5a2e0323-fd9b-4f57-87af-3df64731e80a
+2025-11-13 01:06:40,018 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Hexxit-3.0 every 5 seconds
+2025-11-13 01:06:40,019 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Hexxit-3.0 every 30 seconds
+2025-11-13 01:06:40,021 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Hexxit-3.0
+2025-11-13 01:06:40,021 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/tempfile.txt is writable
+2025-11-13 01:06:40,023 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Hexxit-3.0 with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 01:06:40,023 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 01:06:40,024 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 01:06:40,027 - [Crafty] - INFO     - app.classes.shared.server - Server Hexxit-3.0 running with PID 61857
+2025-11-13 01:34:46,002 - [Crafty] - INFO     - audit_log - issued command start_server for server Hexxit-3.0 with ID: 5a2e0323-fd9b-4f57-87af-3df64731e80a
+2025-11-13 01:34:46,247 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Hexxit-3.0 every 5 seconds
+2025-11-13 01:34:46,248 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Hexxit-3.0 every 30 seconds
+2025-11-13 01:34:46,250 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Hexxit-3.0
+2025-11-13 01:34:46,251 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a/tempfile.txt is writable
+2025-11-13 01:34:46,253 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Hexxit-3.0 with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 01:34:46,253 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 01:34:46,253 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/5a2e0323-fd9b-4f57-87af-3df64731e80a with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 01:34:46,256 - [Crafty] - INFO     - app.classes.shared.server - Server Hexxit-3.0 running with PID 73473
+2025-11-13 01:39:46,350 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Checking Big Bucket status
+2025-11-13 01:39:46,538 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Big bucket is alive and responding as expected
+2025-11-13 01:41:04,856 - [Crafty] - INFO     - app.classes.shared.main_controller - No server.properties found on import.Creating one with port selection of 25565
+2025-11-13 01:41:04,862 - [Crafty] - INFO     - app.classes.controllers.servers_controller - Checking to see if we already registered 5a2e0323-fd9b-4f57-87af-3df64731e80a
+2025-11-13 01:41:04,862 - [Crafty] - INFO     - app.classes.controllers.servers_controller - skipping initialization of server 5a2e0323-fd9b-4f57-87af-3df64731e80a because it is already loaded
+2025-11-13 01:41:04,865 - [Crafty] - INFO     - app.classes.controllers.servers_controller - Checking to see if we already registered 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 01:41:04,866 - [Crafty] - WARNING  - app.classes.models.server_stats - Error try to create the db_stats folder for server : [Errno 17] File exists: '/workspaces/Mine-Server/minecraft/crafty-4/app/config/db/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05'
+2025-11-13 01:41:04,866 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-13 01:41:04,875 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220427_init"
+2025-11-13 01:41:04,876 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220427_init"
+2025-11-13 01:41:04,879 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20220817_schedule_rename_downloading"
+2025-11-13 01:41:04,880 - [Crafty] - INFO     - app.classes.shared.migration - Done "20220817_schedule_rename_downloading"
+2025-11-13 01:41:04,882 - [Crafty] - INFO     - app.classes.shared.migration - Migrate "20230827_add_icon"
+2025-11-13 01:41:04,883 - [Crafty] - INFO     - app.classes.shared.migration - Done "20230827_add_icon"
+2025-11-13 01:41:04,890 - [Crafty] - INFO     - app.classes.shared.server - Creating Server object: 4c25d769-766d-4ffd-8d06-7982c0ffec05 | Server Name: Westeros | Auto Start: False
+2025-11-13 01:41:05,411 - [Crafty] - INFO     - audit_log - created server Westeros (ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05) (UUID: 4c25d769-766d-4ffd-8d06-7982c0ffec05)
+2025-11-13 01:41:07,907 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - https://jars.arcadiatech.org/forge-installer/1.20.1/forge-installer.jar
+2025-11-13 01:41:07,928 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Requesting remote: https://jars.arcadiatech.org/forge-installer/1.20.1/forge-installer.jar
+2025-11-13 01:41:07,928 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Download Destination: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/forge-installer-1.20.1.jar
+2025-11-13 01:41:07,990 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Download progress: 17.25%
+2025-11-13 01:41:07,998 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Download progress: 34.50%
+2025-11-13 01:41:08,003 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Download progress: 51.76%
+2025-11-13 01:41:08,008 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Download progress: 69.01%
+2025-11-13 01:41:08,014 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Download progress: 86.26%
+2025-11-13 01:41:08,017 - [Crafty] - INFO     - app.classes.helpers.file_helpers - SSL File Get - Download progress: 100.00%
+2025-11-13 01:41:08,018 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Westeros every 5 seconds
+2025-11-13 01:41:08,019 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Westeros every 30 seconds
+2025-11-13 01:41:08,021 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Westeros
+2025-11-13 01:41:08,021 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/tempfile.txt is writable
+2025-11-13 01:41:08,023 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Westeros with command ['java', '-Xms1000M', '-Xmx3000M', '-jar', 'forge-installer-1.20.1.jar', '--installServer']
+2025-11-13 01:41:08,023 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 01:41:08,023 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05 with command: ['java', '-Xms1000M', '-Xmx3000M', '-jar', 'forge-installer-1.20.1.jar', '--installServer']
+2025-11-13 01:41:08,027 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros running with PID 76216
+2025-11-13 01:41:33,560 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/run.sh is readable
+2025-11-13 01:42:51,526 - [Crafty] - INFO     - audit_log - issued command start_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 01:42:52,318 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Westeros every 5 seconds
+2025-11-13 01:42:52,319 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Westeros every 30 seconds
+2025-11-13 01:42:52,321 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Westeros
+2025-11-13 01:42:52,321 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/tempfile.txt is writable
+2025-11-13 01:42:52,323 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Westeros with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 01:42:54,506 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Westeros every 5 seconds
+2025-11-13 01:42:54,507 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Westeros every 30 seconds
+2025-11-13 01:42:54,510 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Westeros
+2025-11-13 01:42:54,510 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/tempfile.txt is writable
+2025-11-13 01:42:54,512 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Westeros with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 01:42:54,512 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 01:42:54,513 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05 with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 01:42:54,516 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros running with PID 77003
+2025-11-13 01:43:10,138 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:10,142 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:11,264 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:14,929 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:15,033 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:16,269 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:16,271 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:19,903 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:20,021 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:21,255 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:24,896 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:25,026 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:25,030 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:26,256 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:29,904 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:30,018 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:31,258 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:34,895 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:35,020 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:43:36,263 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:46:40,381 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: lootintegrations-1.20.1-4.7.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/lootintegrations-1.20.1-4.7.jar Type: server_upload
+2025-11-13 01:46:40,383 - [Crafty] - INFO     - audit_log - Uploaded file lootintegrations-1.20.1-4.7.jar
+2025-11-13 01:46:40,384 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: gpumemleakfix-1.20.1-1.8.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/gpumemleakfix-1.20.1-1.8.jar Type: server_upload
+2025-11-13 01:46:40,387 - [Crafty] - INFO     - audit_log - Uploaded file gpumemleakfix-1.20.1-1.8.jar
+2025-11-13 01:46:40,388 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: cupboard-1.20.1-2.7.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/cupboard-1.20.1-2.7.jar Type: server_upload
+2025-11-13 01:46:40,391 - [Crafty] - INFO     - audit_log - Uploaded file cupboard-1.20.1-2.7.jar
+2025-11-13 01:46:40,392 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: CloudBoots-1.20.1-3.0.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/CloudBoots-1.20.1-3.0.0.jar Type: server_upload
+2025-11-13 01:46:40,395 - [Crafty] - INFO     - audit_log - Uploaded file CloudBoots-1.20.1-3.0.0.jar
+2025-11-13 01:46:40,396 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: ferritecore-6.0.1-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/ferritecore-6.0.1-forge.jar Type: server_upload
+2025-11-13 01:46:40,399 - [Crafty] - INFO     - audit_log - Uploaded file ferritecore-6.0.1-forge.jar
+2025-11-13 01:46:40,403 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: melody_forge_1.0.3_MC_1.20.1-1.20.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar Type: server_upload
+2025-11-13 01:46:40,406 - [Crafty] - INFO     - audit_log - Uploaded file melody_forge_1.0.3_MC_1.20.1-1.20.4.jar
+2025-11-13 01:46:40,406 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: lootintegrations_vanilla-1.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/lootintegrations_vanilla-1.4.jar Type: server_upload
+2025-11-13 01:46:40,408 - [Crafty] - INFO     - audit_log - Uploaded file lootintegrations_vanilla-1.4.jar
+2025-11-13 01:46:40,412 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: immersive_optimization-forge-1.20.1-0.1.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/immersive_optimization-forge-1.20.1-0.1.0.jar Type: server_upload
+2025-11-13 01:46:40,414 - [Crafty] - INFO     - audit_log - Uploaded file immersive_optimization-forge-1.20.1-0.1.0.jar
+2025-11-13 01:46:40,415 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: ironbookshelves-1.20.1-1.4.11-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/ironbookshelves-1.20.1-1.4.11-forge.jar Type: server_upload
+2025-11-13 01:46:40,417 - [Crafty] - INFO     - audit_log - Uploaded file ironbookshelves-1.20.1-1.4.11-forge.jar
+2025-11-13 01:46:40,418 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: battle_towers-1.4-forge-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/battle_towers-1.4-forge-1.20.1.jar Type: server_upload
+2025-11-13 01:46:40,421 - [Crafty] - INFO     - audit_log - Uploaded file battle_towers-1.4-forge-1.20.1.jar
+2025-11-13 01:46:40,424 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: armordamagescale-1.20.1-3.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/armordamagescale-1.20.1-3.1.jar Type: server_upload
+2025-11-13 01:46:40,427 - [Crafty] - INFO     - audit_log - Uploaded file armordamagescale-1.20.1-3.1.jar
+2025-11-13 01:46:40,437 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: essence_staffs-1.2.0-forge-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/essence_staffs-1.2.0-forge-1.20.1.jar Type: server_upload
+2025-11-13 01:46:40,440 - [Crafty] - INFO     - audit_log - Uploaded file essence_staffs-1.2.0-forge-1.20.1.jar
+2025-11-13 01:46:40,446 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: dynamiclights-1.20.1.2.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/dynamiclights-1.20.1.2.jar Type: server_upload
+2025-11-13 01:46:40,448 - [Crafty] - INFO     - audit_log - Uploaded file dynamiclights-1.20.1.2.jar
+2025-11-13 01:46:40,451 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar Type: server_upload
+2025-11-13 01:46:40,454 - [Crafty] - INFO     - audit_log - Uploaded file DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar
+2025-11-13 01:46:40,497 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: hexxit_gear-1.0.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/hexxit_gear-1.0.1.jar Type: server_upload
+2025-11-13 01:46:40,499 - [Crafty] - INFO     - audit_log - Uploaded file hexxit_gear-1.0.1.jar
+2025-11-13 01:46:40,538 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: gnetum-2.1.3.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/gnetum-2.1.3.jar Type: server_upload
+2025-11-13 01:46:40,540 - [Crafty] - INFO     - audit_log - Uploaded file gnetum-2.1.3.jar
+2025-11-13 01:46:40,542 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: appleskin-forge-mc1.20.1-2.5.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/appleskin-forge-mc1.20.1-2.5.1.jar Type: server_upload
+2025-11-13 01:46:40,545 - [Crafty] - INFO     - audit_log - Uploaded file appleskin-forge-mc1.20.1-2.5.1.jar
+2025-11-13 01:46:40,600 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: curios-forge-5.12.0+1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/curios-forge-5.12.0+1.20.1.jar Type: server_upload
+2025-11-13 01:46:40,602 - [Crafty] - INFO     - audit_log - Uploaded file curios-forge-5.12.0+1.20.1.jar
+2025-11-13 01:46:40,648 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: QuarkOddities-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/QuarkOddities-1.20.1.jar Type: server_upload
+2025-11-13 01:46:40,651 - [Crafty] - INFO     - audit_log - Uploaded file QuarkOddities-1.20.1.jar
+2025-11-13 01:46:40,653 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: flerovium-forge-1.20.1-1.2.15-all.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/flerovium-forge-1.20.1-1.2.15-all.jar Type: server_upload
+2025-11-13 01:46:40,655 - [Crafty] - INFO     - audit_log - Uploaded file flerovium-forge-1.20.1-1.2.15-all.jar
+2025-11-13 01:46:40,674 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: AsgardShieldReloaded-1.20.1-0.2.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/AsgardShieldReloaded-1.20.1-0.2.jar Type: server_upload
+2025-11-13 01:46:40,677 - [Crafty] - INFO     - audit_log - Uploaded file AsgardShieldReloaded-1.20.1-0.2.jar
+2025-11-13 01:46:40,698 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: torohealth-1.20-forge-5.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/torohealth-1.20-forge-5.jar Type: server_upload
+2025-11-13 01:46:40,700 - [Crafty] - INFO     - audit_log - Uploaded file torohealth-1.20-forge-5.jar
+2025-11-13 01:46:40,789 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: architectury-9.2.14-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/architectury-9.2.14-forge.jar Type: server_upload
+2025-11-13 01:46:40,793 - [Crafty] - INFO     - audit_log - Uploaded file architectury-9.2.14-forge.jar
+2025-11-13 01:46:40,820 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: libraryferret-forge-1.20.1-4.0.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/libraryferret-forge-1.20.1-4.0.0.jar Type: server_upload
+2025-11-13 01:46:40,823 - [Crafty] - INFO     - audit_log - Uploaded file libraryferret-forge-1.20.1-4.0.0.jar
+2025-11-13 01:46:40,889 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: awesomedungeon-forge-1.20.1-3.2.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/awesomedungeon-forge-1.20.1-3.2.0.jar Type: server_upload
+2025-11-13 01:46:40,892 - [Crafty] - INFO     - audit_log - Uploaded file awesomedungeon-forge-1.20.1-3.2.0.jar
+2025-11-13 01:46:40,936 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: ironchest-1.20.1-14.4.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/ironchest-1.20.1-14.4.4.jar Type: server_upload
+2025-11-13 01:46:40,938 - [Crafty] - INFO     - audit_log - Uploaded file ironchest-1.20.1-14.4.4.jar
+2025-11-13 01:46:40,987 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: YungsApi-1.20-Forge-4.0.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/YungsApi-1.20-Forge-4.0.1.jar Type: server_upload
+2025-11-13 01:46:40,990 - [Crafty] - INFO     - audit_log - Uploaded file YungsApi-1.20-Forge-4.0.1.jar
+2025-11-13 01:46:41,030 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: inventoryhud.forge.1.20.1-3.4.26.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/inventoryhud.forge.1.20.1-3.4.26.jar Type: server_upload
+2025-11-13 01:46:41,032 - [Crafty] - INFO     - audit_log - Uploaded file inventoryhud.forge.1.20.1-3.4.26.jar
+2025-11-13 01:46:41,046 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: mcwifipnp-1.7.6-1.20.1-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/mcwifipnp-1.7.6-1.20.1-forge.jar Type: server_upload
+2025-11-13 01:46:41,049 - [Crafty] - INFO     - audit_log - Uploaded file mcwifipnp-1.7.6-1.20.1-forge.jar
+2025-11-13 01:46:41,137 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: ironfurnaces-1.20.1-4.1.6.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/ironfurnaces-1.20.1-4.1.6.jar Type: server_upload
+2025-11-13 01:46:41,140 - [Crafty] - INFO     - audit_log - Uploaded file ironfurnaces-1.20.1-4.1.6.jar
+2025-11-13 01:46:41,227 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Corail-Backpack-1.20.1-185.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/Corail-Backpack-1.20.1-185.jar Type: server_upload
+2025-11-13 01:46:41,230 - [Crafty] - INFO     - audit_log - Uploaded file Corail-Backpack-1.20.1-185.jar
+2025-11-13 01:46:41,241 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: MouseTweaks-forge-mc1.20.1-2.25.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar Type: server_upload
+2025-11-13 01:46:41,244 - [Crafty] - INFO     - audit_log - Uploaded file MouseTweaks-forge-mc1.20.1-2.25.1.jar
+2025-11-13 01:46:41,262 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: expandability-9.0.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/expandability-9.0.4.jar Type: server_upload
+2025-11-13 01:46:41,264 - [Crafty] - INFO     - audit_log - Uploaded file expandability-9.0.4.jar
+2025-11-13 01:46:41,358 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: konkrete_forge_1.8.0_MC_1.20-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar Type: server_upload
+2025-11-13 01:46:41,361 - [Crafty] - INFO     - audit_log - Uploaded file konkrete_forge_1.8.0_MC_1.20-1.20.1.jar
+2025-11-13 01:46:41,572 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: dldungeonsjbg-2.1.2-MC1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/dldungeonsjbg-2.1.2-MC1.20.1.jar Type: server_upload
+2025-11-13 01:46:41,574 - [Crafty] - INFO     - audit_log - Uploaded file dldungeonsjbg-2.1.2-MC1.20.1.jar
+2025-11-13 01:46:41,604 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: FallingTree-1.20.1-4.3.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/FallingTree-1.20.1-4.3.4.jar Type: server_upload
+2025-11-13 01:46:41,607 - [Crafty] - INFO     - audit_log - Uploaded file FallingTree-1.20.1-4.3.4.jar
+2025-11-13 01:46:41,655 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: TinkersLevellingAddon-1.20.1-1.4.3.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/TinkersLevellingAddon-1.20.1-1.4.3.jar Type: server_upload
+2025-11-13 01:46:41,659 - [Crafty] - INFO     - audit_log - Uploaded file TinkersLevellingAddon-1.20.1-1.4.3.jar
+2025-11-13 01:46:41,790 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: l2backpack-2.5.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/l2backpack-2.5.4.jar Type: server_upload
+2025-11-13 01:46:41,794 - [Crafty] - INFO     - audit_log - Uploaded file l2backpack-2.5.4.jar
+2025-11-13 01:46:41,811 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: jauml-1.0.4b-forge-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/jauml-1.0.4b-forge-1.20.1.jar Type: server_upload
+2025-11-13 01:46:41,815 - [Crafty] - INFO     - audit_log - Uploaded file jauml-1.0.4b-forge-1.20.1.jar
+2025-11-13 01:46:41,988 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: weaponmaster_ydm-forge-1.20.1-4.2.3.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar Type: server_upload
+2025-11-13 01:46:41,991 - [Crafty] - INFO     - audit_log - Uploaded file weaponmaster_ydm-forge-1.20.1-4.2.3.jar
+2025-11-13 01:46:41,994 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Capsule-1.20.1-8.0.105.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/Capsule-1.20.1-8.0.105.jar Type: server_upload
+2025-11-13 01:46:41,997 - [Crafty] - INFO     - audit_log - Uploaded file Capsule-1.20.1-8.0.105.jar
+2025-11-13 01:46:42,243 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: chococraft-1.20.1-forge-0.9.12.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/chococraft-1.20.1-forge-0.9.12.jar Type: server_upload
+2025-11-13 01:46:42,245 - [Crafty] - INFO     - audit_log - Uploaded file chococraft-1.20.1-forge-0.9.12.jar
+2025-11-13 01:46:42,563 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: PirateGunsV2_1.2.0.2.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/PirateGunsV2_1.2.0.2.jar Type: server_upload
+2025-11-13 01:46:42,567 - [Crafty] - INFO     - audit_log - Uploaded file PirateGunsV2_1.2.0.2.jar
+2025-11-13 01:46:42,591 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: cloth-config-11.1.136-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/cloth-config-11.1.136-forge.jar Type: server_upload
+2025-11-13 01:46:42,594 - [Crafty] - INFO     - audit_log - Uploaded file cloth-config-11.1.136-forge.jar
+2025-11-13 01:46:42,814 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: ImmediatelyFast-Forge-1.5.2+1.20.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/ImmediatelyFast-Forge-1.5.2+1.20.4.jar Type: server_upload
+2025-11-13 01:46:42,818 - [Crafty] - INFO     - audit_log - Uploaded file ImmediatelyFast-Forge-1.5.2+1.20.4.jar
+2025-11-13 01:46:42,824 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: XaerosWorldMap_1.39.12_Forge_1.20.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/XaerosWorldMap_1.39.12_Forge_1.20.jar Type: server_upload
+2025-11-13 01:46:42,826 - [Crafty] - INFO     - audit_log - Uploaded file XaerosWorldMap_1.39.12_Forge_1.20.jar
+2025-11-13 01:46:42,840 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Zeta-1.0-30.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/Zeta-1.0-30.jar Type: server_upload
+2025-11-13 01:46:42,843 - [Crafty] - INFO     - audit_log - Uploaded file Zeta-1.0-30.jar
+2025-11-13 01:46:42,861 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: alltheleaks-1.0.4+1.20.1-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/alltheleaks-1.0.4+1.20.1-forge.jar Type: server_upload
+2025-11-13 01:46:42,865 - [Crafty] - INFO     - audit_log - Uploaded file alltheleaks-1.0.4+1.20.1-forge.jar
+2025-11-13 01:46:43,162 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: YungsBetterDungeons-1.20-Forge-4.0.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar Type: server_upload
+2025-11-13 01:46:43,165 - [Crafty] - INFO     - audit_log - Uploaded file YungsBetterDungeons-1.20-Forge-4.0.4.jar
+2025-11-13 01:46:43,435 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Dungeon Crawl-1.20.1-2.3.15.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/Dungeon Crawl-1.20.1-2.3.15.jar Type: server_upload
+2025-11-13 01:46:43,438 - [Crafty] - INFO     - audit_log - Uploaded file Dungeon Crawl-1.20.1-2.3.15.jar
+2025-11-13 01:46:43,440 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: lodestone-1.20.1-1.6.4.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/lodestone-1.20.1-1.6.4.1.jar Type: server_upload
+2025-11-13 01:46:43,444 - [Crafty] - INFO     - audit_log - Uploaded file lodestone-1.20.1-1.6.4.1.jar
+2025-11-13 01:46:43,446 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: radium-mc1.20.1-0.12.4+git.26c9d8e.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar Type: server_upload
+2025-11-13 01:46:43,449 - [Crafty] - INFO     - audit_log - Uploaded file radium-mc1.20.1-0.12.4+git.26c9d8e.jar
+2025-11-13 01:46:43,916 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: geckolib-forge-1.20.1-4.7.4.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/geckolib-forge-1.20.1-4.7.4.jar Type: server_upload
+2025-11-13 01:46:43,918 - [Crafty] - INFO     - audit_log - Uploaded file geckolib-forge-1.20.1-4.7.4.jar
+2025-11-13 01:46:44,151 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: structure_gel-1.20.1-2.16.2.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/structure_gel-1.20.1-2.16.2.jar Type: server_upload
+2025-11-13 01:46:44,153 - [Crafty] - INFO     - audit_log - Uploaded file structure_gel-1.20.1-2.16.2.jar
+2025-11-13 01:46:44,169 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: crust-1.20.1-4.7.14.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/crust-1.20.1-4.7.14.jar Type: server_upload
+2025-11-13 01:46:44,172 - [Crafty] - INFO     - audit_log - Uploaded file crust-1.20.1-4.7.14.jar
+2025-11-13 01:46:44,589 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: modernfix-forge-5.24.4+mc1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/modernfix-forge-5.24.4+mc1.20.1.jar Type: server_upload
+2025-11-13 01:46:44,592 - [Crafty] - INFO     - audit_log - Uploaded file modernfix-forge-5.24.4+mc1.20.1.jar
+2025-11-13 01:46:44,739 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: emi-1.1.22+1.20.1+forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/emi-1.1.22+1.20.1+forge.jar Type: server_upload
+2025-11-13 01:46:44,742 - [Crafty] - INFO     - audit_log - Uploaded file emi-1.1.22+1.20.1+forge.jar
+2025-11-13 01:46:44,790 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: l2library-2.5.3.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/l2library-2.5.3.jar Type: server_upload
+2025-11-13 01:46:44,794 - [Crafty] - INFO     - audit_log - Uploaded file l2library-2.5.3.jar
+2025-11-13 01:46:45,089 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar Type: server_upload
+2025-11-13 01:46:45,091 - [Crafty] - INFO     - audit_log - Uploaded file yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar
+2025-11-13 01:46:45,164 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: embeddium-0.3.31+mc1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/embeddium-0.3.31+mc1.20.1.jar Type: server_upload
+2025-11-13 01:46:45,167 - [Crafty] - INFO     - audit_log - Uploaded file embeddium-0.3.31+mc1.20.1.jar
+2025-11-13 01:46:45,579 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: hexxit_additions-1.0.2-forge-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/hexxit_additions-1.0.2-forge-1.20.1.jar Type: server_upload
+2025-11-13 01:46:45,582 - [Crafty] - INFO     - audit_log - Uploaded file hexxit_additions-1.0.2-forge-1.20.1.jar
+2025-11-13 01:46:46,155 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: memory_of_the_past-1.8.0-forge-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/memory_of_the_past-1.8.0-forge-1.20.1.jar Type: server_upload
+2025-11-13 01:46:46,158 - [Crafty] - INFO     - audit_log - Uploaded file memory_of_the_past-1.8.0-forge-1.20.1.jar
+2025-11-13 01:46:46,195 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: dungeons_enhanced-1.20.1-5.2.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/dungeons_enhanced-1.20.1-5.2.jar Type: server_upload
+2025-11-13 01:46:46,199 - [Crafty] - INFO     - audit_log - Uploaded file dungeons_enhanced-1.20.1-5.2.jar
+2025-11-13 01:46:46,473 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: PuzzlesLib-v8.1.33-1.20.1-Forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar Type: server_upload
+2025-11-13 01:46:46,476 - [Crafty] - INFO     - audit_log - Uploaded file PuzzlesLib-v8.1.33-1.20.1-Forge.jar
+2025-11-13 01:46:46,723 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Philips-Ruins1.20.1-5.5.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/Philips-Ruins1.20.1-5.5.jar Type: server_upload
+2025-11-13 01:46:46,726 - [Crafty] - INFO     - audit_log - Uploaded file Philips-Ruins1.20.1-5.5.jar
+2025-11-13 01:46:46,982 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Mantle-1.20.1-1.11.79.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/Mantle-1.20.1-1.11.79.jar Type: server_upload
+2025-11-13 01:46:46,985 - [Crafty] - INFO     - audit_log - Uploaded file Mantle-1.20.1-1.11.79.jar
+2025-11-13 01:46:47,129 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: servercore-forge-1.5.2+1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/servercore-forge-1.5.2+1.20.1.jar Type: server_upload
+2025-11-13 01:46:47,131 - [Crafty] - INFO     - audit_log - Uploaded file servercore-forge-1.5.2+1.20.1.jar
+2025-11-13 01:46:47,152 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: keebszs_battletowers_0.6.0-1.20.1BETA.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/keebszs_battletowers_0.6.0-1.20.1BETA.jar Type: server_upload
+2025-11-13 01:46:47,155 - [Crafty] - INFO     - audit_log - Uploaded file keebszs_battletowers_0.6.0-1.20.1BETA.jar
+2025-11-13 01:46:47,298 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: bettervillage-forge-1.20.1-3.2.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/bettervillage-forge-1.20.1-3.2.0.jar Type: server_upload
+2025-11-13 01:46:47,301 - [Crafty] - INFO     - audit_log - Uploaded file bettervillage-forge-1.20.1-3.2.0.jar
+2025-11-13 01:46:47,326 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Xaeros_Minimap_25.2.10_Forge_1.20.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/Xaeros_Minimap_25.2.10_Forge_1.20.jar Type: server_upload
+2025-11-13 01:46:47,329 - [Crafty] - INFO     - audit_log - Uploaded file Xaeros_Minimap_25.2.10_Forge_1.20.jar
+2025-11-13 01:46:48,099 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: reliquary-1.20.1-2.0.54.1304.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/reliquary-1.20.1-2.0.54.1304.jar Type: server_upload
+2025-11-13 01:46:48,101 - [Crafty] - INFO     - audit_log - Uploaded file reliquary-1.20.1-2.0.54.1304.jar
+2025-11-13 01:46:48,155 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: exoticbirds-1.20.1-1.0.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/exoticbirds-1.20.1-1.0.0.jar Type: server_upload
+2025-11-13 01:46:48,158 - [Crafty] - INFO     - audit_log - Uploaded file exoticbirds-1.20.1-1.0.0.jar
+2025-11-13 01:46:48,519 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: specialmobs-1.20.1-4.1.15.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/specialmobs-1.20.1-4.1.15.jar Type: server_upload
+2025-11-13 01:46:48,521 - [Crafty] - INFO     - audit_log - Uploaded file specialmobs-1.20.1-4.1.15.jar
+2025-11-13 01:46:49,886 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: ATi Structures V1.4.3 (1.20+).jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/ATi Structures V1.4.3 (1.20+).jar Type: server_upload
+2025-11-13 01:46:49,892 - [Crafty] - INFO     - audit_log - Uploaded file ATi Structures V1.4.3 (1.20+).jar
+2025-11-13 01:46:50,152 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: oculus-mc1.20.1-1.8.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/oculus-mc1.20.1-1.8.0.jar Type: server_upload
+2025-11-13 01:46:50,154 - [Crafty] - INFO     - audit_log - Uploaded file oculus-mc1.20.1-1.8.0.jar
+2025-11-13 01:46:50,179 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: citadel-2.6.2-1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/citadel-2.6.2-1.20.1.jar Type: server_upload
+2025-11-13 01:46:50,183 - [Crafty] - INFO     - audit_log - Uploaded file citadel-2.6.2-1.20.1.jar
+2025-11-13 01:46:50,585 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: modulargolems-2.6.9.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/modulargolems-2.6.9.jar Type: server_upload
+2025-11-13 01:46:50,587 - [Crafty] - INFO     - audit_log - Uploaded file modulargolems-2.6.9.jar
+2025-11-13 01:46:50,830 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: simplefarming-1.20.1-2.1.6.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/simplefarming-1.20.1-2.1.6.jar Type: server_upload
+2025-11-13 01:46:50,833 - [Crafty] - INFO     - audit_log - Uploaded file simplefarming-1.20.1-2.1.6.jar
+2025-11-13 01:46:50,894 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: fancymenu_forge_3.7.0_MC_1.20.1.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/fancymenu_forge_3.7.0_MC_1.20.1.jar Type: server_upload
+2025-11-13 01:46:50,897 - [Crafty] - INFO     - audit_log - Uploaded file fancymenu_forge_3.7.0_MC_1.20.1.jar
+2025-11-13 01:46:52,925 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Legendary Armory 1.20.1 1.4.8.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/Legendary Armory 1.20.1 1.4.8.jar Type: server_upload
+2025-11-13 01:46:52,927 - [Crafty] - INFO     - audit_log - Uploaded file Legendary Armory 1.20.1 1.4.8.jar
+2025-11-13 01:47:05,114 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: Quark-4.0-462.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/Quark-4.0-462.jar Type: server_upload
+2025-11-13 01:47:05,117 - [Crafty] - INFO     - audit_log - Uploaded file Quark-4.0-462.jar
+2025-11-13 01:47:19,237 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: TConstruct-1.20.1-3.10.2.92.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/TConstruct-1.20.1-3.10.2.92.jar Type: server_upload
+2025-11-13 01:47:19,240 - [Crafty] - INFO     - audit_log - Uploaded file TConstruct-1.20.1-3.10.2.92.jar
+2025-11-13 01:47:20,969 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: twilightforest-1.20.1-4.3.2508-universal.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/twilightforest-1.20.1-4.3.2508-universal.jar Type: server_upload
+2025-11-13 01:47:20,972 - [Crafty] - INFO     - audit_log - Uploaded file twilightforest-1.20.1-4.3.2508-universal.jar
+2025-11-13 01:47:21,347 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: mocreatures-1.20.1-1.0.0.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/mocreatures-1.20.1-1.0.0.jar Type: server_upload
+2025-11-13 01:47:21,349 - [Crafty] - INFO     - audit_log - Uploaded file mocreatures-1.20.1-1.0.0.jar
+2025-11-13 01:47:21,638 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: malum-1.20.1-1.6.6.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/malum-1.20.1-1.6.6.jar Type: server_upload
+2025-11-13 01:47:21,640 - [Crafty] - INFO     - audit_log - Uploaded file malum-1.20.1-1.6.6.jar
+2025-11-13 01:47:21,718 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: dimdoors-5.4.4-1.20.1-forge.jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/dimdoors-5.4.4-1.20.1-forge.jar Type: server_upload
+2025-11-13 01:47:21,721 - [Crafty] - INFO     - audit_log - Uploaded file dimdoors-5.4.4-1.20.1-forge.jar
+2025-11-13 01:47:21,994 - [Crafty] - INFO     - app.classes.web.routes.api.crafty.upload.index - File upload completed. Filename: even_more_magic_1.20.1(v.1.869).jar Path: /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/mods/even_more_magic_1.20.1(v.1.869).jar Type: server_upload
+2025-11-13 01:47:21,997 - [Crafty] - INFO     - audit_log - Uploaded file even_more_magic_1.20.1(v.1.869).jar
+2025-11-13 01:49:26,649 - [Crafty] - INFO     - audit_log - issued command restart_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 01:49:27,382 - [Crafty] - INFO     - app.classes.shared.server - Restart command detected. Sending stop command to 4c25d769-766d-4ffd-8d06-7982c0ffec05.
+2025-11-13 01:49:27,382 - [Crafty] - INFO     - app.classes.shared.server - Stop command requested for Westeros.
+2025-11-13 01:49:27,383 - [Crafty] - INFO     - app.classes.shared.server - Cache file refreshed
+2025-11-13 01:49:27,383 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(58 seconds until force close)
+2025-11-13 01:49:29,383 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(56 seconds until force close)
+2025-11-13 01:49:31,384 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(54 seconds until force close)
+2025-11-13 01:49:33,384 - [Crafty] - INFO     - app.classes.shared.server - Stopped Server Westeros with PID 77003
+2025-11-13 01:49:33,385 - [Crafty] - INFO     - app.classes.shared.server - Cleaning up stats schedules for server 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 01:49:35,397 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Westeros every 5 seconds
+2025-11-13 01:49:35,398 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Westeros every 30 seconds
+2025-11-13 01:49:35,399 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Westeros
+2025-11-13 01:49:35,400 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/tempfile.txt is writable
+2025-11-13 01:49:35,402 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Westeros with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 01:49:35,402 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 01:49:35,402 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05 with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 01:49:35,406 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros running with PID 81059
+2025-11-13 01:50:26,687 - [Crafty] - INFO     - audit_log - issued command start_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 01:50:27,413 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Westeros every 5 seconds
+2025-11-13 01:50:27,414 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Westeros every 30 seconds
+2025-11-13 01:50:27,416 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Westeros
+2025-11-13 01:50:27,416 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/tempfile.txt is writable
+2025-11-13 01:50:27,418 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Westeros with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 01:50:27,419 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 01:50:27,419 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05 with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 01:50:27,422 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros running with PID 81679
+2025-11-13 01:53:14,077 - [Crafty] - ERROR    - tornado.application - Uncaught exception POST /api/v2/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/files (::1)
+HTTPServerRequest(protocol='https', host='localhost:8443', method='POST', uri='/api/v2/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/files', version='HTTP/1.1', remote_ip='::1')
+Traceback (most recent call last):
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/tornado/web.py", line 1846, in _execute
+    result = method(*self.path_args, **self.path_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/web/routes/api/servers/server/files.py", line 270, in post
+    self.finish_json(200, {"status": "ok", "data": file_contents})
+                                                   ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'file_contents' where it is not associated with a value
+2025-11-13 01:53:37,436 - [Crafty] - INFO     - audit_log - issued command start_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 01:53:37,445 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Westeros every 5 seconds
+2025-11-13 01:53:37,446 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Westeros every 30 seconds
+2025-11-13 01:53:37,448 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Westeros
+2025-11-13 01:53:37,448 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/tempfile.txt is writable
+2025-11-13 01:53:37,450 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Westeros with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 01:53:37,451 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 01:53:37,451 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05 with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 01:53:37,454 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros running with PID 83759
+2025-11-13 01:54:11,400 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:54:12,958 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:54:14,898 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:54:16,267 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:54:16,267 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:54:18,200 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:55:42,232 - [Crafty] - ERROR    - tornado.application - Uncaught exception POST /api/v2/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/files (::1)
+HTTPServerRequest(protocol='https', host='localhost:8443', method='POST', uri='/api/v2/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/files', version='HTTP/1.1', remote_ip='::1')
+Traceback (most recent call last):
+  File "/workspaces/Mine-Server/minecraft/.venv/lib/python3.12/site-packages/tornado/web.py", line 1846, in _execute
+    result = method(*self.path_args, **self.path_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Mine-Server/minecraft/crafty-4/app/classes/web/routes/api/servers/server/files.py", line 270, in post
+    self.finish_json(200, {"status": "ok", "data": file_contents})
+                                                   ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'file_contents' where it is not associated with a value
+2025-11-13 01:55:56,281 - [Crafty] - INFO     - audit_log - issued command start_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 01:55:56,484 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Westeros every 5 seconds
+2025-11-13 01:55:56,485 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Westeros every 30 seconds
+2025-11-13 01:55:56,487 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Westeros
+2025-11-13 01:55:56,488 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/tempfile.txt is writable
+2025-11-13 01:55:56,489 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Westeros with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 01:55:56,490 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 01:55:56,490 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05 with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 01:55:56,493 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros running with PID 85136
+2025-11-13 01:56:30,194 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:56:31,278 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 01:56:32,010 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:04:10,180 - [Crafty] - INFO     - audit_log - issued command stop_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 02:04:10,575 - [Crafty] - INFO     - app.classes.shared.server - Stop command requested for Westeros.
+2025-11-13 02:04:10,576 - [Crafty] - INFO     - app.classes.shared.server - Cache file refreshed
+2025-11-13 02:04:10,576 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(58 seconds until force close)
+2025-11-13 02:04:12,577 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(56 seconds until force close)
+2025-11-13 02:04:14,577 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(54 seconds until force close)
+2025-11-13 02:04:16,578 - [Crafty] - INFO     - app.classes.shared.server - Stopped Server Westeros with PID 85136
+2025-11-13 02:04:16,579 - [Crafty] - INFO     - app.classes.shared.server - Cleaning up stats schedules for server 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 02:04:23,002 - [Crafty] - INFO     - audit_log - issued command start_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 02:04:23,592 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Westeros every 5 seconds
+2025-11-13 02:04:23,593 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Westeros every 30 seconds
+2025-11-13 02:04:23,595 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Westeros
+2025-11-13 02:04:23,595 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/tempfile.txt is writable
+2025-11-13 02:04:23,597 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Westeros with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 02:04:23,597 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 02:04:23,598 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05 with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 02:04:23,601 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros running with PID 90594
+2025-11-13 02:04:55,167 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:04:56,260 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:04:59,121 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:04:59,901 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:01,264 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:04,107 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:04,893 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:06,262 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:09,106 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:09,902 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:11,263 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:14,098 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:14,890 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:16,269 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:16,270 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:19,103 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:19,894 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:21,255 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:24,105 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:24,109 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:24,897 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:26,257 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:29,106 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:29,891 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:31,258 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:34,102 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:34,893 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:36,268 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:39,105 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:39,897 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:41,258 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:44,122 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:44,892 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:46,257 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:05:46,261 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:24:59,653 - [Crafty] - INFO     - audit_log - issued command restart_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 02:24:59,777 - [Crafty] - INFO     - app.classes.shared.server - Restart command detected. Sending stop command to 4c25d769-766d-4ffd-8d06-7982c0ffec05.
+2025-11-13 02:24:59,778 - [Crafty] - INFO     - app.classes.shared.server - Stop command requested for Westeros.
+2025-11-13 02:24:59,778 - [Crafty] - INFO     - app.classes.shared.server - Cache file refreshed
+2025-11-13 02:24:59,779 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(58 seconds until force close)
+2025-11-13 02:25:01,779 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(56 seconds until force close)
+2025-11-13 02:25:03,780 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(54 seconds until force close)
+2025-11-13 02:25:05,780 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(52 seconds until force close)
+2025-11-13 02:25:07,780 - [Crafty] - INFO     - app.classes.shared.server - Stopped Server Westeros with PID 90594
+2025-11-13 02:25:07,781 - [Crafty] - INFO     - app.classes.shared.server - Cleaning up stats schedules for server 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 02:25:09,792 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Westeros every 5 seconds
+2025-11-13 02:25:09,793 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Westeros every 30 seconds
+2025-11-13 02:25:09,796 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Westeros
+2025-11-13 02:25:09,797 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/tempfile.txt is writable
+2025-11-13 02:25:09,800 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Westeros with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 02:25:09,800 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 02:25:09,801 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05 with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 02:25:09,805 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros running with PID 107560
+2025-11-13 02:25:45,163 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:25:45,309 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:25:46,269 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:25:46,273 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:41:13,712 - [Crafty] - INFO     - audit_log - Sent command (op Thorfinn) to terminal
+2025-11-13 02:44:44,256 - [Crafty] - INFO     - audit_log - issued command stop_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 02:44:44,988 - [Crafty] - INFO     - app.classes.shared.server - Stop command requested for Westeros.
+2025-11-13 02:44:44,989 - [Crafty] - INFO     - app.classes.shared.server - Cache file refreshed
+2025-11-13 02:44:44,989 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(58 seconds until force close)
+2025-11-13 02:44:46,989 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(56 seconds until force close)
+2025-11-13 02:44:48,990 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(54 seconds until force close)
+2025-11-13 02:44:50,990 - [Crafty] - INFO     - app.classes.shared.server - Stopped Server Westeros with PID 107560
+2025-11-13 02:44:50,991 - [Crafty] - INFO     - app.classes.shared.server - Cleaning up stats schedules for server 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 02:51:34,176 - [Crafty] - INFO     - __main__ - ***** Crafty Controller Started *****
+2025-11-13 02:51:34,343 - [Crafty] - INFO     - app.classes.helpers.helpers - No process found for pid. Assuming crafty crashed. Deleting stale session.lock
+2025-11-13 02:51:34,343 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-13 02:51:34,812 - [Crafty] - INFO     - app.classes.shared.migration - There is nothing to migrate
+2025-11-13 02:51:34,926 - [Crafty] - INFO     - app.classes.helpers.helpers - SSL Cert File is set to: /workspaces/Mine-Server/minecraft/crafty-4/app/config/web/certs/commander.cert.pem
+2025-11-13 02:51:34,926 - [Crafty] - INFO     - __main__ - Initializing all servers defined
+2025-11-13 02:51:34,926 - [Crafty] - INFO     - app.classes.helpers.helpers - SSL Key File is set to: /workspaces/Mine-Server/minecraft/crafty-4/app/config/web/certs/commander.key.pem
+2025-11-13 02:51:34,927 - [Crafty] - INFO     - app.classes.helpers.helpers - Cert and Key files already exists, not creating them.
+2025-11-13 02:51:34,928 - [Crafty] - INFO     - app.classes.controllers.servers_controller - Checking to see if we already registered 5a2e0323-fd9b-4f57-87af-3df64731e80a
+2025-11-13 02:51:34,930 - [Crafty] - INFO     - app.classes.web.tornado_handler - Starting Web Server on ports https:8443
+2025-11-13 02:51:34,930 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-13 02:51:35,010 - [Crafty] - INFO     - app.classes.web.tornado_handler - https://10.0.10.103:8443 is up and ready for connections.
+2025-11-13 02:51:35,011 - [Crafty] - INFO     - app.classes.shared.migration - There is nothing to migrate
+2025-11-13 02:51:35,423 - [Crafty] - INFO     - app.classes.shared.server - Creating Server object: 5a2e0323-fd9b-4f57-87af-3df64731e80a | Server Name: Hexxit-3.0 | Auto Start: False
+2025-11-13 02:51:35,436 - [Crafty] - INFO     - app.classes.controllers.servers_controller - Checking to see if we already registered 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 02:51:35,437 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-13 02:51:35,479 - [Crafty] - INFO     - app.classes.shared.migration - There is nothing to migrate
+2025-11-13 02:51:35,619 - [Crafty] - INFO     - app.classes.shared.server - Creating Server object: 4c25d769-766d-4ffd-8d06-7982c0ffec05 | Server Name: Westeros | Auto Start: False
+2025-11-13 02:51:38,154 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Checking Big Bucket status
+2025-11-13 02:51:38,351 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Big bucket is alive and responding as expected
+2025-11-13 02:51:38,351 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Cache file is not old enough to require automatic refresh.
+2025-11-13 02:51:39,638 - [Crafty] - INFO     - __main__ - Checking Internet. This may take a minute.
+2025-11-13 02:51:41,639 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Manual bucket cache refresh initiated.
+2025-11-13 02:51:41,640 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Checking Big Bucket status
+2025-11-13 02:51:41,641 - [Crafty] - INFO     - __main__ - Execution Mode: Non-interactive (e.g. 'python main.py')
+2025-11-13 02:51:41,641 - [Crafty] - INFO     - __main__ - Application path: '/workspaces/Mine-Server/minecraft/crafty-4'
+2025-11-13 02:51:41,841 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Big bucket is alive and responding as expected
+2025-11-13 02:51:42,027 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Cache file successfully refreshed manually.
+2025-11-13 02:51:42,027 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Manual refresh completed.
+2025-11-13 02:51:42,215 - [Crafty] - INFO     - __main__ - Removing old temp dirs
+2025-11-13 02:51:55,098 - [Crafty] - INFO     - audit_log - issued command start_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 02:51:55,153 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Westeros every 5 seconds
+2025-11-13 02:51:55,153 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Westeros every 30 seconds
+2025-11-13 02:51:55,156 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Westeros
+2025-11-13 02:51:55,156 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/tempfile.txt is writable
+2025-11-13 02:51:55,158 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Westeros with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 02:51:55,158 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 02:51:55,159 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05 with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 02:51:55,205 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros running with PID 6354
+2025-11-13 02:52:45,896 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:55:03,284 - [Crafty] - INFO     - audit_log - issued command stop_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 02:55:04,191 - [Crafty] - INFO     - app.classes.shared.server - Stop command requested for Westeros.
+2025-11-13 02:55:04,192 - [Crafty] - INFO     - app.classes.shared.server - Cache file refreshed
+2025-11-13 02:55:04,193 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(58 seconds until force close)
+2025-11-13 02:55:06,193 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(56 seconds until force close)
+2025-11-13 02:55:08,193 - [Crafty] - INFO     - app.classes.shared.server - Stopped Server Westeros with PID 6354
+2025-11-13 02:55:08,194 - [Crafty] - INFO     - app.classes.shared.server - Cleaning up stats schedules for server 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 02:55:31,726 - [Crafty] - INFO     - audit_log - issued command start_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 02:55:32,210 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Westeros every 5 seconds
+2025-11-13 02:55:32,210 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Westeros every 30 seconds
+2025-11-13 02:55:32,213 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Westeros
+2025-11-13 02:55:32,213 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/tempfile.txt is writable
+2025-11-13 02:55:32,216 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Westeros with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 02:55:32,216 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 02:55:32,216 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05 with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 02:55:32,220 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros running with PID 8719
+2025-11-13 02:56:05,889 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 02:56:07,728 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 03:25:56,719 - [Crafty] - INFO     - audit_log - Sent command (op Welling) to terminal
+2025-11-13 03:26:12,153 - [Crafty] - INFO     - audit_log - Sent command (op Welli) to terminal
+2025-11-13 05:45:52,519 - [Crafty] - INFO     - __main__ - ***** Crafty Controller Started *****
+2025-11-13 05:45:52,573 - [Crafty] - INFO     - app.classes.helpers.helpers - No process found for pid. Assuming crafty crashed. Deleting stale session.lock
+2025-11-13 05:45:52,574 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-13 05:45:53,147 - [Crafty] - INFO     - app.classes.shared.migration - There is nothing to migrate
+2025-11-13 05:45:53,249 - [Crafty] - INFO     - app.classes.helpers.helpers - SSL Cert File is set to: /workspaces/Mine-Server/minecraft/crafty-4/app/config/web/certs/commander.cert.pem
+2025-11-13 05:45:53,249 - [Crafty] - INFO     - __main__ - Initializing all servers defined
+2025-11-13 05:45:53,249 - [Crafty] - INFO     - app.classes.helpers.helpers - SSL Key File is set to: /workspaces/Mine-Server/minecraft/crafty-4/app/config/web/certs/commander.key.pem
+2025-11-13 05:45:53,250 - [Crafty] - INFO     - app.classes.helpers.helpers - Cert and Key files already exists, not creating them.
+2025-11-13 05:45:53,252 - [Crafty] - INFO     - app.classes.controllers.servers_controller - Checking to see if we already registered 5a2e0323-fd9b-4f57-87af-3df64731e80a
+2025-11-13 05:45:53,252 - [Crafty] - INFO     - app.classes.web.tornado_handler - Starting Web Server on ports https:8443
+2025-11-13 05:45:53,259 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-13 05:45:53,296 - [Crafty] - INFO     - app.classes.shared.migration - There is nothing to migrate
+2025-11-13 05:45:53,297 - [Crafty] - INFO     - app.classes.web.tornado_handler - https://10.0.1.22:8443 is up and ready for connections.
+2025-11-13 05:45:53,739 - [Crafty] - INFO     - app.classes.shared.server - Creating Server object: 5a2e0323-fd9b-4f57-87af-3df64731e80a | Server Name: Hexxit-3.0 | Auto Start: False
+2025-11-13 05:45:53,750 - [Crafty] - INFO     - app.classes.controllers.servers_controller - Checking to see if we already registered 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 05:45:53,751 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-13 05:45:53,808 - [Crafty] - INFO     - app.classes.shared.migration - There is nothing to migrate
+2025-11-13 05:45:54,132 - [Crafty] - INFO     - app.classes.shared.server - Creating Server object: 4c25d769-766d-4ffd-8d06-7982c0ffec05 | Server Name: Westeros | Auto Start: False
+2025-11-13 05:45:56,680 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Checking Big Bucket status
+2025-11-13 05:45:56,867 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Big bucket is alive and responding as expected
+2025-11-13 05:45:56,867 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Cache file is not old enough to require automatic refresh.
+2025-11-13 05:45:58,164 - [Crafty] - INFO     - __main__ - Checking Internet. This may take a minute.
+2025-11-13 05:46:00,165 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Manual bucket cache refresh initiated.
+2025-11-13 05:46:00,165 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Checking Big Bucket status
+2025-11-13 05:46:00,167 - [Crafty] - INFO     - __main__ - Execution Mode: Non-interactive (e.g. 'python main.py')
+2025-11-13 05:46:00,167 - [Crafty] - INFO     - __main__ - Application path: '/workspaces/Mine-Server/minecraft/crafty-4'
+2025-11-13 05:46:00,327 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Big bucket is alive and responding as expected
+2025-11-13 05:46:00,497 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Cache file successfully refreshed manually.
+2025-11-13 05:46:00,497 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Manual refresh completed.
+2025-11-13 05:46:00,728 - [Crafty] - INFO     - __main__ - Removing old temp dirs
+2025-11-13 05:50:19,199 - [Crafty] - INFO     - audit_log - issued command start_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 05:50:19,712 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Westeros every 5 seconds
+2025-11-13 05:50:19,713 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Westeros every 30 seconds
+2025-11-13 05:50:19,715 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Westeros
+2025-11-13 05:50:19,715 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/tempfile.txt is writable
+2025-11-13 05:50:19,718 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Westeros with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 05:50:19,718 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 05:50:19,718 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05 with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 05:50:19,765 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros running with PID 8698
+2025-11-13 05:51:10,369 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 05:51:13,954 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
+2025-11-13 06:47:24,051 - [Crafty] - INFO     - audit_log - issued command stop_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 06:47:24,209 - [Crafty] - INFO     - app.classes.shared.server - Stop command requested for Westeros.
+2025-11-13 06:47:24,210 - [Crafty] - INFO     - app.classes.shared.server - Cache file refreshed
+2025-11-13 06:47:24,211 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(58 seconds until force close)
+2025-11-13 06:47:26,211 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros is still running - waiting 2s to see if it stops(56 seconds until force close)
+2025-11-13 06:47:28,211 - [Crafty] - INFO     - app.classes.shared.server - Stopped Server Westeros with PID 8698
+2025-11-13 06:47:28,212 - [Crafty] - INFO     - app.classes.shared.server - Cleaning up stats schedules for server 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 15:12:38,424 - [Crafty] - INFO     - __main__ - ***** Crafty Controller Started *****
+2025-11-13 15:12:38,425 - [Crafty] - INFO     - app.classes.helpers.helpers - No process found for pid. Assuming crafty crashed. Deleting stale session.lock
+2025-11-13 15:12:38,426 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-13 15:12:38,858 - [Crafty] - INFO     - app.classes.shared.migration - There is nothing to migrate
+2025-11-13 15:12:38,942 - [Crafty] - INFO     - __main__ - Initializing all servers defined
+2025-11-13 15:12:38,942 - [Crafty] - INFO     - app.classes.helpers.helpers - SSL Cert File is set to: /workspaces/Mine-Server/minecraft/crafty-4/app/config/web/certs/commander.cert.pem
+2025-11-13 15:12:38,943 - [Crafty] - INFO     - app.classes.helpers.helpers - SSL Key File is set to: /workspaces/Mine-Server/minecraft/crafty-4/app/config/web/certs/commander.key.pem
+2025-11-13 15:12:38,944 - [Crafty] - INFO     - app.classes.helpers.helpers - Cert and Key files already exists, not creating them.
+2025-11-13 15:12:38,945 - [Crafty] - INFO     - app.classes.controllers.servers_controller - Checking to see if we already registered 5a2e0323-fd9b-4f57-87af-3df64731e80a
+2025-11-13 15:12:38,946 - [Crafty] - INFO     - app.classes.web.tornado_handler - Starting Web Server on ports https:8443
+2025-11-13 15:12:38,946 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-13 15:12:38,974 - [Crafty] - INFO     - app.classes.web.tornado_handler - https://10.0.10.143:8443 is up and ready for connections.
+2025-11-13 15:12:38,975 - [Crafty] - INFO     - app.classes.shared.migration - There is nothing to migrate
+2025-11-13 15:12:39,480 - [Crafty] - INFO     - app.classes.shared.server - Creating Server object: 5a2e0323-fd9b-4f57-87af-3df64731e80a | Server Name: Hexxit-3.0 | Auto Start: False
+2025-11-13 15:12:39,489 - [Crafty] - INFO     - app.classes.controllers.servers_controller - Checking to see if we already registered 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 15:12:39,490 - [Crafty] - INFO     - app.classes.shared.migration - Starting migrations
+2025-11-13 15:12:39,605 - [Crafty] - INFO     - app.classes.shared.migration - There is nothing to migrate
+2025-11-13 15:12:40,071 - [Crafty] - INFO     - app.classes.shared.server - Creating Server object: 4c25d769-766d-4ffd-8d06-7982c0ffec05 | Server Name: Westeros | Auto Start: False
+2025-11-13 15:12:42,604 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Checking Big Bucket status
+2025-11-13 15:12:42,897 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Big bucket is alive and responding as expected
+2025-11-13 15:12:42,897 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Cache file is not old enough to require automatic refresh.
+2025-11-13 15:12:44,091 - [Crafty] - INFO     - __main__ - Checking Internet. This may take a minute.
+2025-11-13 15:12:46,092 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Manual bucket cache refresh initiated.
+2025-11-13 15:12:46,092 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Checking Big Bucket status
+2025-11-13 15:12:46,093 - [Crafty] - INFO     - __main__ - Execution Mode: Non-interactive (e.g. 'python main.py')
+2025-11-13 15:12:46,094 - [Crafty] - INFO     - __main__ - Application path: '/workspaces/Mine-Server/minecraft/crafty-4'
+2025-11-13 15:12:46,297 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Big bucket is alive and responding as expected
+2025-11-13 15:12:46,576 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Cache file successfully refreshed manually.
+2025-11-13 15:12:46,576 - [Crafty] - INFO     - app.classes.minecraft.bigbucket - Manual refresh completed.
+2025-11-13 15:12:46,768 - [Crafty] - INFO     - __main__ - Removing old temp dirs
+2025-11-13 15:14:48,859 - [Crafty] - INFO     - audit_log - issued command start_server for server Westeros with ID: 4c25d769-766d-4ffd-8d06-7982c0ffec05
+2025-11-13 15:14:49,621 - [Crafty] - INFO     - app.classes.shared.server - Polling server statistics Westeros every 5 seconds
+2025-11-13 15:14:49,622 - [Crafty] - INFO     - app.classes.shared.server - Saving server statistics Westeros every 30 seconds
+2025-11-13 15:14:49,625 - [Crafty] - INFO     - app.classes.shared.server - Start command detected. Reloading settings from DB for server Westeros
+2025-11-13 15:14:49,625 - [Crafty] - INFO     - app.classes.helpers.helpers - /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05/tempfile.txt is writable
+2025-11-13 15:14:49,628 - [Crafty] - INFO     - app.classes.shared.server - Launching Server Westeros with command ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 15:14:49,628 - [Crafty] - INFO     - app.classes.shared.server - Unix Detected
+2025-11-13 15:14:49,628 - [Crafty] - INFO     - app.classes.shared.server - Starting server in /workspaces/Mine-Server/minecraft/crafty-4/servers/4c25d769-766d-4ffd-8d06-7982c0ffec05 with command: ['java', '@user_jvm_args.txt', '@libraries/net/minecraftforge/forge/1.20.1-47.4.10/unix_args.txt', 'nogui', '$@']
+2025-11-13 15:14:49,702 - [Crafty] - INFO     - app.classes.shared.server - Server Westeros running with PID 5154
+2025-11-13 15:15:40,423 - [Crafty] - ERROR    - app.classes.minecraft.mc_ping - Error geting player information key error
